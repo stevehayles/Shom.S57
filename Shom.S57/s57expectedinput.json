@@ -1,0 +1,7322 @@
+﻿[
+  {
+    "Code": 2,
+    "ID": 1,
+    "Meaning": "stake, pole, perch, post"
+  },
+  {
+    "Code": 2,
+    "ID": 2,
+    "Meaning": "whity"
+  },
+  {
+    "Code": 2,
+    "ID": 3,
+    "Meaning": "beacon tower"
+  },
+  {
+    "Code": 2,
+    "ID": 4,
+    "Meaning": "lattice beacon"
+  },
+  {
+    "Code": 2,
+    "ID": 5,
+    "Meaning": "pile beacon"
+  },
+  {
+    "Code": 2,
+    "ID": 6,
+    "Meaning": "cairn"
+  },
+  {
+    "Code": 2,
+    "ID": 7,
+    "Meaning": "buoyant beacon"
+  },
+  {
+    "Code": 3,
+    "ID": 5,
+    "Meaning": "high-rise building"
+  },
+  {
+    "Code": 3,
+    "ID": 6,
+    "Meaning": "pyramid"
+  },
+  {
+    "Code": 3,
+    "ID": 7,
+    "Meaning": "cylindrical"
+  },
+  {
+    "Code": 3,
+    "ID": 8,
+    "Meaning": "spherical"
+  },
+  {
+    "Code": 3,
+    "ID": 9,
+    "Meaning": "cubic"
+  },
+  {
+    "Code": 4,
+    "ID": 1,
+    "Meaning": "conical (nun, ogival)"
+  },
+  {
+    "Code": 4,
+    "ID": 2,
+    "Meaning": "can (cylindrical)"
+  },
+  {
+    "Code": 4,
+    "ID": 3,
+    "Meaning": "spherical"
+  },
+  {
+    "Code": 4,
+    "ID": 4,
+    "Meaning": "pillar"
+  },
+  {
+    "Code": 4,
+    "ID": 5,
+    "Meaning": "spar (spindle)"
+  },
+  {
+    "Code": 4,
+    "ID": 6,
+    "Meaning": "barrel (tun)"
+  },
+  {
+    "Code": 4,
+    "ID": 7,
+    "Meaning": "super-buoy"
+  },
+  {
+    "Code": 4,
+    "ID": 8,
+    "Meaning": "ice buoy"
+  },
+  {
+    "Code": 7,
+    "ID": 1,
+    "Meaning": "military aeroplane airport"
+  },
+  {
+    "Code": 7,
+    "ID": 2,
+    "Meaning": "civil aeroplane airport"
+  },
+  {
+    "Code": 7,
+    "ID": 3,
+    "Meaning": "military heliport"
+  },
+  {
+    "Code": 7,
+    "ID": 4,
+    "Meaning": "civil heliport"
+  },
+  {
+    "Code": 7,
+    "ID": 5,
+    "Meaning": "glider airfield"
+  },
+  {
+    "Code": 7,
+    "ID": 6,
+    "Meaning": "small planes airfield"
+  },
+  {
+    "Code": 7,
+    "ID": 8,
+    "Meaning": "emergency airfield"
+  },
+  {
+    "Code": 8,
+    "ID": 1,
+    "Meaning": "unrestricted anchorage"
+  },
+  {
+    "Code": 8,
+    "ID": 2,
+    "Meaning": "deep water anchorage"
+  },
+  {
+    "Code": 8,
+    "ID": 3,
+    "Meaning": "tanker anchorage"
+  },
+  {
+    "Code": 8,
+    "ID": 4,
+    "Meaning": "explosives anchorage"
+  },
+  {
+    "Code": 8,
+    "ID": 5,
+    "Meaning": "quarantine anchorage"
+  },
+  {
+    "Code": 8,
+    "ID": 6,
+    "Meaning": "sea-plane anchorage"
+  },
+  {
+    "Code": 8,
+    "ID": 7,
+    "Meaning": "small craft anchorage"
+  },
+  {
+    "Code": 8,
+    "ID": 8,
+    "Meaning": "small craft mooring area"
+  },
+  {
+    "Code": 8,
+    "ID": 9,
+    "Meaning": "anchorage for periods up to 24 hours"
+  },
+  {
+    "Code": 9,
+    "ID": 1,
+    "Meaning": "fixed bridge"
+  },
+  {
+    "Code": 9,
+    "ID": 2,
+    "Meaning": "opening bridge"
+  },
+  {
+    "Code": 9,
+    "ID": 3,
+    "Meaning": "swing bridge"
+  },
+  {
+    "Code": 9,
+    "ID": 4,
+    "Meaning": "lifting bridge"
+  },
+  {
+    "Code": 9,
+    "ID": 5,
+    "Meaning": "bascule bridge"
+  },
+  {
+    "Code": 9,
+    "ID": 6,
+    "Meaning": "pontoon bridge"
+  },
+  {
+    "Code": 9,
+    "ID": 7,
+    "Meaning": "draw bridge"
+  },
+  {
+    "Code": 9,
+    "ID": 8,
+    "Meaning": "transporter bridge"
+  },
+  {
+    "Code": 9,
+    "ID": 9,
+    "Meaning": "footbridge"
+  },
+  {
+    "Code": 9,
+    "ID": 10,
+    "Meaning": "viaduct"
+  },
+  {
+    "Code": 9,
+    "ID": 11,
+    "Meaning": "aqueduct"
+  },
+  {
+    "Code": 9,
+    "ID": 12,
+    "Meaning": "suspension bridge"
+  },
+  {
+    "Code": 10,
+    "ID": 1,
+    "Meaning": "urban area"
+  },
+  {
+    "Code": 10,
+    "ID": 2,
+    "Meaning": "settlement"
+  },
+  {
+    "Code": 10,
+    "ID": 3,
+    "Meaning": "village"
+  },
+  {
+    "Code": 10,
+    "ID": 4,
+    "Meaning": "town"
+  },
+  {
+    "Code": 10,
+    "ID": 5,
+    "Meaning": "city"
+  },
+  {
+    "Code": 10,
+    "ID": 6,
+    "Meaning": "holiday village"
+  },
+  {
+    "Code": 11,
+    "ID": 1,
+    "Meaning": "power line"
+  },
+  {
+    "Code": 11,
+    "ID": 3,
+    "Meaning": "transmission line"
+  },
+  {
+    "Code": 11,
+    "ID": 4,
+    "Meaning": "telephone"
+  },
+  {
+    "Code": 11,
+    "ID": 5,
+    "Meaning": "telegraph"
+  },
+  {
+    "Code": 11,
+    "ID": 6,
+    "Meaning": "mooring cable/chain"
+  },
+  {
+    "Code": 12,
+    "ID": 1,
+    "Meaning": "transportation"
+  },
+  {
+    "Code": 12,
+    "ID": 2,
+    "Meaning": "drainage"
+  },
+  {
+    "Code": 12,
+    "ID": 3,
+    "Meaning": "irrigation"
+  },
+  {
+    "Code": 13,
+    "ID": 1,
+    "Meaning": "north cardinal mark"
+  },
+  {
+    "Code": 13,
+    "ID": 2,
+    "Meaning": "east cardinal mark"
+  },
+  {
+    "Code": 13,
+    "ID": 3,
+    "Meaning": "south cardinal mark"
+  },
+  {
+    "Code": 13,
+    "ID": 4,
+    "Meaning": "west cardinal mark"
+  },
+  {
+    "Code": 14,
+    "ID": 1,
+    "Meaning": "custom"
+  },
+  {
+    "Code": 15,
+    "ID": 1,
+    "Meaning": "steep coast"
+  },
+  {
+    "Code": 15,
+    "ID": 2,
+    "Meaning": "flat coast"
+  },
+  {
+    "Code": 15,
+    "ID": 3,
+    "Meaning": "sandy shore"
+  },
+  {
+    "Code": 15,
+    "ID": 4,
+    "Meaning": "stony shore"
+  },
+  {
+    "Code": 15,
+    "ID": 5,
+    "Meaning": "shingly shore"
+  },
+  {
+    "Code": 15,
+    "ID": 6,
+    "Meaning": "glacier (seaward end)"
+  },
+  {
+    "Code": 15,
+    "ID": 7,
+    "Meaning": "mangrove"
+  },
+  {
+    "Code": 15,
+    "ID": 8,
+    "Meaning": "marshy shore"
+  },
+  {
+    "Code": 15,
+    "ID": 9,
+    "Meaning": "coral reef"
+  },
+  {
+    "Code": 15,
+    "ID": 10,
+    "Meaning": "ice coast"
+  },
+  {
+    "Code": 16,
+    "ID": 1,
+    "Meaning": "triangulation point"
+  },
+  {
+    "Code": 16,
+    "ID": 2,
+    "Meaning": "observation spot"
+  },
+  {
+    "Code": 16,
+    "ID": 3,
+    "Meaning": "fixed point"
+  },
+  {
+    "Code": 16,
+    "ID": 4,
+    "Meaning": "bench-mark"
+  },
+  {
+    "Code": 16,
+    "ID": 5,
+    "Meaning": "boundary mark"
+  },
+  {
+    "Code": 16,
+    "ID": 6,
+    "Meaning": "horizontal control, main station"
+  },
+  {
+    "Code": 16,
+    "ID": 7,
+    "Meaning": "horizontal control, secondary station"
+  },
+  {
+    "Code": 17,
+    "ID": 1,
+    "Meaning": "aerial cableway (telepheric)"
+  },
+  {
+    "Code": 17,
+    "ID": 2,
+    "Meaning": "belt conveyor"
+  },
+  {
+    "Code": 18,
+    "ID": 1,
+    "Meaning": "coverage available"
+  },
+  {
+    "Code": 18,
+    "ID": 2,
+    "Meaning": "no coverage available"
+  },
+  {
+    "Code": 19,
+    "ID": 2,
+    "Meaning": "container crane/gantry"
+  },
+  {
+    "Code": 19,
+    "ID": 3,
+    "Meaning": "sheerlegs"
+  },
+  {
+    "Code": 19,
+    "ID": 4,
+    "Meaning": "travelling crane"
+  },
+  {
+    "Code": 19,
+    "ID": 5,
+    "Meaning": "A-frame"
+  },
+  {
+    "Code": 20,
+    "ID": 1,
+    "Meaning": "weir"
+  },
+  {
+    "Code": 20,
+    "ID": 2,
+    "Meaning": "dam"
+  },
+  {
+    "Code": 20,
+    "ID": 3,
+    "Meaning": "flood barrage"
+  },
+  {
+    "Code": 21,
+    "ID": 1,
+    "Meaning": "distance mark not physically installed"
+  },
+  {
+    "Code": 21,
+    "ID": 2,
+    "Meaning": "visible mark, pole"
+  },
+  {
+    "Code": 21,
+    "ID": 3,
+    "Meaning": "visible mark, board"
+  },
+  {
+    "Code": 21,
+    "ID": 4,
+    "Meaning": "visible mark, unknown shape"
+  },
+  {
+    "Code": 22,
+    "ID": 1,
+    "Meaning": "tidal"
+  },
+  {
+    "Code": 22,
+    "ID": 2,
+    "Meaning": "non-tidal (wet dock)"
+  },
+  {
+    "Code": 23,
+    "ID": 2,
+    "Meaning": "chemical waste dumping ground"
+  },
+  {
+    "Code": 23,
+    "ID": 3,
+    "Meaning": "nuclear waste dumping ground"
+  },
+  {
+    "Code": 23,
+    "ID": 4,
+    "Meaning": "explosives dumping ground"
+  },
+  {
+    "Code": 23,
+    "ID": 5,
+    "Meaning": "spoil ground"
+  },
+  {
+    "Code": 23,
+    "ID": 6,
+    "Meaning": "vessel dumping ground"
+  },
+  {
+    "Code": 24,
+    "ID": 1,
+    "Meaning": "fence"
+  },
+  {
+    "Code": 24,
+    "ID": 3,
+    "Meaning": "hedge"
+  },
+  {
+    "Code": 24,
+    "ID": 4,
+    "Meaning": "wall"
+  },
+  {
+    "Code": 25,
+    "ID": 1,
+    "Meaning": "free-moving' ferry"
+  },
+  {
+    "Code": 25,
+    "ID": 2,
+    "Meaning": "cable ferry"
+  },
+  {
+    "Code": 25,
+    "ID": 3,
+    "Meaning": "ice ferry"
+  },
+  {
+    "Code": 26,
+    "ID": 1,
+    "Meaning": "fishing stake"
+  },
+  {
+    "Code": 26,
+    "ID": 2,
+    "Meaning": "fish trap"
+  },
+  {
+    "Code": 26,
+    "ID": 3,
+    "Meaning": "fish weir"
+  },
+  {
+    "Code": 26,
+    "ID": 4,
+    "Meaning": "tunny net"
+  },
+  {
+    "Code": 27,
+    "ID": 1,
+    "Meaning": "explosive"
+  },
+  {
+    "Code": 27,
+    "ID": 2,
+    "Meaning": "diaphone"
+  },
+  {
+    "Code": 27,
+    "ID": 3,
+    "Meaning": "siren"
+  },
+  {
+    "Code": 27,
+    "ID": 4,
+    "Meaning": "nautophone"
+  },
+  {
+    "Code": 27,
+    "ID": 5,
+    "Meaning": "reed"
+  },
+  {
+    "Code": 27,
+    "ID": 6,
+    "Meaning": "tyfon"
+  },
+  {
+    "Code": 27,
+    "ID": 7,
+    "Meaning": "bell"
+  },
+  {
+    "Code": 27,
+    "ID": 8,
+    "Meaning": "whistle"
+  },
+  {
+    "Code": 27,
+    "ID": 9,
+    "Meaning": "gong"
+  },
+  {
+    "Code": 27,
+    "ID": 10,
+    "Meaning": "horn"
+  },
+  {
+    "Code": 28,
+    "ID": 1,
+    "Meaning": "castle"
+  },
+  {
+    "Code": 28,
+    "ID": 2,
+    "Meaning": "fort"
+  },
+  {
+    "Code": 28,
+    "ID": 3,
+    "Meaning": "battery"
+  },
+  {
+    "Code": 28,
+    "ID": 4,
+    "Meaning": "blockhouse"
+  },
+  {
+    "Code": 28,
+    "ID": 5,
+    "Meaning": "Martello tower"
+  },
+  {
+    "Code": 29,
+    "ID": 2,
+    "Meaning": "flood barrage gate"
+  },
+  {
+    "Code": 29,
+    "ID": 3,
+    "Meaning": "caisson"
+  },
+  {
+    "Code": 29,
+    "ID": 4,
+    "Meaning": "lock gate"
+  },
+  {
+    "Code": 29,
+    "ID": 5,
+    "Meaning": "dyke gate"
+  },
+  {
+    "Code": 30,
+    "ID": 1,
+    "Meaning": "RoRo-terminal"
+  },
+  {
+    "Code": 30,
+    "ID": 3,
+    "Meaning": "ferry terminal"
+  },
+  {
+    "Code": 30,
+    "ID": 4,
+    "Meaning": "fishing harbour"
+  },
+  {
+    "Code": 30,
+    "ID": 5,
+    "Meaning": "yacht harbour/marina"
+  },
+  {
+    "Code": 30,
+    "ID": 6,
+    "Meaning": "naval base"
+  },
+  {
+    "Code": 30,
+    "ID": 7,
+    "Meaning": "tanker terminal"
+  },
+  {
+    "Code": 30,
+    "ID": 8,
+    "Meaning": "passenger terminal"
+  },
+  {
+    "Code": 30,
+    "ID": 9,
+    "Meaning": "shipyard"
+  },
+  {
+    "Code": 30,
+    "ID": 10,
+    "Meaning": "container terminal"
+  },
+  {
+    "Code": 30,
+    "ID": 11,
+    "Meaning": "bulk terminal"
+  },
+  {
+    "Code": 31,
+    "ID": 1,
+    "Meaning": "floating restaurant"
+  },
+  {
+    "Code": 31,
+    "ID": 2,
+    "Meaning": "historic ship"
+  },
+  {
+    "Code": 31,
+    "ID": 3,
+    "Meaning": "museum"
+  },
+  {
+    "Code": 31,
+    "ID": 4,
+    "Meaning": "accomodation"
+  },
+  {
+    "Code": 31,
+    "ID": 5,
+    "Meaning": "floating breakwater"
+  },
+  {
+    "Code": 32,
+    "ID": 1,
+    "Meaning": "fast ice"
+  },
+  {
+    "Code": 32,
+    "ID": 5,
+    "Meaning": "glacier"
+  },
+  {
+    "Code": 32,
+    "ID": 8,
+    "Meaning": "polar ice"
+  },
+  {
+    "Code": 33,
+    "ID": 1,
+    "Meaning": "catenary anchor leg mooring (CALM)"
+  },
+  {
+    "Code": 33,
+    "ID": 2,
+    "Meaning": "single buoy mooring (SBM or SPM)"
+  },
+  {
+    "Code": 34,
+    "ID": 1,
+    "Meaning": "fen"
+  },
+  {
+    "Code": 34,
+    "ID": 2,
+    "Meaning": "marsh"
+  },
+  {
+    "Code": 34,
+    "ID": 3,
+    "Meaning": "moor/bog"
+  },
+  {
+    "Code": 34,
+    "ID": 4,
+    "Meaning": "heathland"
+  },
+  {
+    "Code": 34,
+    "ID": 5,
+    "Meaning": "mountain range"
+  },
+  {
+    "Code": 34,
+    "ID": 6,
+    "Meaning": "lowlands"
+  },
+  {
+    "Code": 34,
+    "ID": 7,
+    "Meaning": "canyon lands"
+  },
+  {
+    "Code": 34,
+    "ID": 8,
+    "Meaning": "paddy field"
+  },
+  {
+    "Code": 34,
+    "ID": 9,
+    "Meaning": "agricultural land"
+  },
+  {
+    "Code": 34,
+    "ID": 10,
+    "Meaning": "savanna/grassland"
+  },
+  {
+    "Code": 34,
+    "ID": 11,
+    "Meaning": "parkland"
+  },
+  {
+    "Code": 34,
+    "ID": 12,
+    "Meaning": "swamp"
+  },
+  {
+    "Code": 34,
+    "ID": 13,
+    "Meaning": "landslide"
+  },
+  {
+    "Code": 34,
+    "ID": 14,
+    "Meaning": "lava flow"
+  },
+  {
+    "Code": 34,
+    "ID": 15,
+    "Meaning": "salt pan"
+  },
+  {
+    "Code": 34,
+    "ID": 16,
+    "Meaning": "moraine"
+  },
+  {
+    "Code": 34,
+    "ID": 17,
+    "Meaning": "crater"
+  },
+  {
+    "Code": 34,
+    "ID": 18,
+    "Meaning": "cave"
+  },
+  {
+    "Code": 34,
+    "ID": 19,
+    "Meaning": "rock column or pinnacle"
+  },
+  {
+    "Code": 35,
+    "ID": 1,
+    "Meaning": "cairn"
+  },
+  {
+    "Code": 35,
+    "ID": 2,
+    "Meaning": "cemetery"
+  },
+  {
+    "Code": 35,
+    "ID": 3,
+    "Meaning": "chimney"
+  },
+  {
+    "Code": 35,
+    "ID": 4,
+    "Meaning": "dish aerial"
+  },
+  {
+    "Code": 35,
+    "ID": 5,
+    "Meaning": "flagstaff (flagpole)"
+  },
+  {
+    "Code": 35,
+    "ID": 6,
+    "Meaning": "flare stack"
+  },
+  {
+    "Code": 35,
+    "ID": 7,
+    "Meaning": "mast"
+  },
+  {
+    "Code": 35,
+    "ID": 8,
+    "Meaning": "windsock"
+  },
+  {
+    "Code": 35,
+    "ID": 9,
+    "Meaning": "monument"
+  },
+  {
+    "Code": 35,
+    "ID": 10,
+    "Meaning": "column (pillar)"
+  },
+  {
+    "Code": 35,
+    "ID": 11,
+    "Meaning": "memorial plaque"
+  },
+  {
+    "Code": 35,
+    "ID": 12,
+    "Meaning": "obelisk"
+  },
+  {
+    "Code": 35,
+    "ID": 13,
+    "Meaning": "statue"
+  },
+  {
+    "Code": 35,
+    "ID": 14,
+    "Meaning": "cross"
+  },
+  {
+    "Code": 35,
+    "ID": 15,
+    "Meaning": "dome"
+  },
+  {
+    "Code": 35,
+    "ID": 16,
+    "Meaning": "radar scanner"
+  },
+  {
+    "Code": 35,
+    "ID": 17,
+    "Meaning": "tower"
+  },
+  {
+    "Code": 35,
+    "ID": 18,
+    "Meaning": "windmill"
+  },
+  {
+    "Code": 35,
+    "ID": 19,
+    "Meaning": "windmotor"
+  },
+  {
+    "Code": 35,
+    "ID": 20,
+    "Meaning": "spire/minaret"
+  },
+  {
+    "Code": 35,
+    "ID": 21,
+    "Meaning": "large rock or boulder on land"
+  },
+  {
+    "Code": 35,
+    "ID": 22,
+    "Meaning": "large rock or boulder on land"
+  },
+  {
+    "Code": 36,
+    "ID": 1,
+    "Meaning": "port-hand lateral mark"
+  },
+  {
+    "Code": 36,
+    "ID": 2,
+    "Meaning": "starboard-hand lateral mark"
+  },
+  {
+    "Code": 36,
+    "ID": 3,
+    "Meaning": "preferred channel to starboard lateral mark"
+  },
+  {
+    "Code": 36,
+    "ID": 4,
+    "Meaning": "preferred channel to port lateral mark"
+  },
+  {
+    "Code": 37,
+    "ID": 1,
+    "Meaning": "Directional function."
+  },
+  {
+    "Code": 37,
+    "ID": 4,
+    "Meaning": "Leading light."
+  },
+  {
+    "Code": 37,
+    "ID": 5,
+    "Meaning": "Aero light."
+  },
+  {
+    "Code": 37,
+    "ID": 6,
+    "Meaning": "Air obstruction light."
+  },
+  {
+    "Code": 37,
+    "ID": 7,
+    "Meaning": "Fog detector light."
+  },
+  {
+    "Code": 37,
+    "ID": 8,
+    "Meaning": "Flood light."
+  },
+  {
+    "Code": 37,
+    "ID": 9,
+    "Meaning": "Strip light."
+  },
+  {
+    "Code": 37,
+    "ID": 10,
+    "Meaning": "Subsidiary light."
+  },
+  {
+    "Code": 37,
+    "ID": 11,
+    "Meaning": "spotlight"
+  },
+  {
+    "Code": 37,
+    "ID": 12,
+    "Meaning": "front"
+  },
+  {
+    "Code": 37,
+    "ID": 13,
+    "Meaning": "rear"
+  },
+  {
+    "Code": 37,
+    "ID": 14,
+    "Meaning": "lower"
+  },
+  {
+    "Code": 37,
+    "ID": 15,
+    "Meaning": "upper"
+  },
+  {
+    "Code": 37,
+    "ID": 16,
+    "Meaning": "moire effect"
+  },
+  {
+    "Code": 37,
+    "ID": 17,
+    "Meaning": "emergency"
+  },
+  {
+    "Code": 37,
+    "ID": 18,
+    "Meaning": "bearing light"
+  },
+  {
+    "Code": 37,
+    "ID": 19,
+    "Meaning": "horizontally disposed"
+  },
+  {
+    "Code": 37,
+    "ID": 20,
+    "Meaning": "vertically disposed"
+  },
+  {
+    "Code": 38,
+    "ID": 1,
+    "Meaning": "crustaceans"
+  },
+  {
+    "Code": 38,
+    "ID": 2,
+    "Meaning": "oyster/mussels"
+  },
+  {
+    "Code": 38,
+    "ID": 3,
+    "Meaning": "fish"
+  },
+  {
+    "Code": 38,
+    "ID": 4,
+    "Meaning": "seaweed"
+  },
+  {
+    "Code": 39,
+    "ID": 2,
+    "Meaning": "torpedo exercise area"
+  },
+  {
+    "Code": 39,
+    "ID": 3,
+    "Meaning": "submarine exercise area"
+  },
+  {
+    "Code": 39,
+    "ID": 4,
+    "Meaning": "firing danger area"
+  },
+  {
+    "Code": 39,
+    "ID": 5,
+    "Meaning": "mine-laying practice area"
+  },
+  {
+    "Code": 39,
+    "ID": 6,
+    "Meaning": "small arms firing range"
+  },
+  {
+    "Code": 40,
+    "ID": 1,
+    "Meaning": "dolphin"
+  },
+  {
+    "Code": 40,
+    "ID": 2,
+    "Meaning": "deviation dolphin"
+  },
+  {
+    "Code": 40,
+    "ID": 3,
+    "Meaning": "bollard"
+  },
+  {
+    "Code": 40,
+    "ID": 4,
+    "Meaning": "tie-up wall"
+  },
+  {
+    "Code": 40,
+    "ID": 5,
+    "Meaning": "post or pile"
+  },
+  {
+    "Code": 40,
+    "ID": 6,
+    "Meaning": "chain/wire/cable"
+  },
+  {
+    "Code": 40,
+    "ID": 7,
+    "Meaning": "mooring buoy"
+  },
+  {
+    "Code": 41,
+    "ID": 1,
+    "Meaning": "clearing line"
+  },
+  {
+    "Code": 41,
+    "ID": 2,
+    "Meaning": "transit line"
+  },
+  {
+    "Code": 41,
+    "ID": 3,
+    "Meaning": "leading line bearing a recommended track"
+  },
+  {
+    "Code": 42,
+    "ID": 1,
+    "Meaning": "snag / stump"
+  },
+  {
+    "Code": 42,
+    "ID": 2,
+    "Meaning": "wellhead"
+  },
+  {
+    "Code": 42,
+    "ID": 3,
+    "Meaning": "diffuser"
+  },
+  {
+    "Code": 42,
+    "ID": 4,
+    "Meaning": "crib"
+  },
+  {
+    "Code": 42,
+    "ID": 5,
+    "Meaning": "fish haven"
+  },
+  {
+    "Code": 42,
+    "ID": 6,
+    "Meaning": "foul area"
+  },
+  {
+    "Code": 42,
+    "ID": 7,
+    "Meaning": "foul ground"
+  },
+  {
+    "Code": 42,
+    "ID": 8,
+    "Meaning": "ice boom"
+  },
+  {
+    "Code": 42,
+    "ID": 9,
+    "Meaning": "ground tackle"
+  },
+  {
+    "Code": 42,
+    "ID": 10,
+    "Meaning": "boom"
+  },
+  {
+    "Code": 43,
+    "ID": 1,
+    "Meaning": "oil derrick / rig"
+  },
+  {
+    "Code": 43,
+    "ID": 2,
+    "Meaning": "production platform"
+  },
+  {
+    "Code": 43,
+    "ID": 3,
+    "Meaning": "observation / research platform"
+  },
+  {
+    "Code": 43,
+    "ID": 4,
+    "Meaning": "articulated loading platform (ALP)"
+  },
+  {
+    "Code": 43,
+    "ID": 5,
+    "Meaning": "single anchor leg mooring (SALM)"
+  },
+  {
+    "Code": 43,
+    "ID": 6,
+    "Meaning": "mooring tower"
+  },
+  {
+    "Code": 43,
+    "ID": 7,
+    "Meaning": "artificial island"
+  },
+  {
+    "Code": 43,
+    "ID": 8,
+    "Meaning": "floating production, storage and off-loading vessel (FPSO)"
+  },
+  {
+    "Code": 43,
+    "ID": 9,
+    "Meaning": "accomodation platform"
+  },
+  {
+    "Code": 43,
+    "ID": 10,
+    "Meaning": "navigation, communication and control buoy (NCCB)"
+  },
+  {
+    "Code": 44,
+    "ID": 1,
+    "Meaning": "oil retention (high pressure pipe)"
+  },
+  {
+    "Code": 44,
+    "ID": 2,
+    "Meaning": "floating oil barrier"
+  },
+  {
+    "Code": 45,
+    "ID": 1,
+    "Meaning": "stake"
+  },
+  {
+    "Code": 45,
+    "ID": 3,
+    "Meaning": "post"
+  },
+  {
+    "Code": 45,
+    "ID": 4,
+    "Meaning": "tripodal"
+  },
+  {
+    "Code": 46,
+    "ID": 1,
+    "Meaning": "boarding by pilot-cruising vessel"
+  },
+  {
+    "Code": 46,
+    "ID": 2,
+    "Meaning": "boarding by helicopter"
+  },
+  {
+    "Code": 46,
+    "ID": 3,
+    "Meaning": "pilot comes out from shore"
+  },
+  {
+    "Code": 47,
+    "ID": 2,
+    "Meaning": "outfall pipe"
+  },
+  {
+    "Code": 47,
+    "ID": 3,
+    "Meaning": "intake pipe"
+  },
+  {
+    "Code": 47,
+    "ID": 4,
+    "Meaning": "sewer"
+  },
+  {
+    "Code": 47,
+    "ID": 5,
+    "Meaning": "bubbler system"
+  },
+  {
+    "Code": 47,
+    "ID": 6,
+    "Meaning": "supply pipe"
+  },
+  {
+    "Code": 48,
+    "ID": 1,
+    "Meaning": "quarry"
+  },
+  {
+    "Code": 48,
+    "ID": 2,
+    "Meaning": "mine"
+  },
+  {
+    "Code": 48,
+    "ID": 3,
+    "Meaning": "stockpile"
+  },
+  {
+    "Code": 48,
+    "ID": 4,
+    "Meaning": "power station area"
+  },
+  {
+    "Code": 48,
+    "ID": 5,
+    "Meaning": "refinery area"
+  },
+  {
+    "Code": 48,
+    "ID": 6,
+    "Meaning": "timber yard"
+  },
+  {
+    "Code": 48,
+    "ID": 7,
+    "Meaning": "factory area"
+  },
+  {
+    "Code": 48,
+    "ID": 8,
+    "Meaning": "tank farm"
+  },
+  {
+    "Code": 48,
+    "ID": 9,
+    "Meaning": "wind farm"
+  },
+  {
+    "Code": 49,
+    "ID": 1,
+    "Meaning": "power transmission pylon/pole"
+  },
+  {
+    "Code": 49,
+    "ID": 2,
+    "Meaning": "telephone/telegraph pylon/pole"
+  },
+  {
+    "Code": 49,
+    "ID": 3,
+    "Meaning": "aerial cableway/sky pylon"
+  },
+  {
+    "Code": 49,
+    "ID": 4,
+    "Meaning": "bridge pylon/tower"
+  },
+  {
+    "Code": 49,
+    "ID": 5,
+    "Meaning": "bridge pier"
+  },
+  {
+    "Code": 50,
+    "ID": 1,
+    "Meaning": "data quality A"
+  },
+  {
+    "Code": 50,
+    "ID": 2,
+    "Meaning": "data quality B"
+  },
+  {
+    "Code": 50,
+    "ID": 3,
+    "Meaning": "data quality C"
+  },
+  {
+    "Code": 50,
+    "ID": 4,
+    "Meaning": "data quality D"
+  },
+  {
+    "Code": 50,
+    "ID": 5,
+    "Meaning": "data quality E"
+  },
+  {
+    "Code": 50,
+    "ID": 6,
+    "Meaning": "quality not evaluated"
+  },
+  {
+    "Code": 51,
+    "ID": 1,
+    "Meaning": "radar surveillance station"
+  },
+  {
+    "Code": 51,
+    "ID": 2,
+    "Meaning": "coast radar station"
+  },
+  {
+    "Code": 52,
+    "ID": 1,
+    "Meaning": "ramark, radar beacon transmitting continuously"
+  },
+  {
+    "Code": 52,
+    "ID": 2,
+    "Meaning": "racon, radar transponder beacon"
+  },
+  {
+    "Code": 52,
+    "ID": 3,
+    "Meaning": "leading racon/radar transponder beacon"
+  },
+  {
+    "Code": 53,
+    "ID": 1,
+    "Meaning": "circular (non-directional) marine or aero-marine radiobeacon"
+  },
+  {
+    "Code": 53,
+    "ID": 2,
+    "Meaning": "directional radiobeacon"
+  },
+  {
+    "Code": 53,
+    "ID": 3,
+    "Meaning": "rotating-pattern radiobeacon"
+  },
+  {
+    "Code": 53,
+    "ID": 4,
+    "Meaning": "Consol beacon"
+  },
+  {
+    "Code": 53,
+    "ID": 5,
+    "Meaning": "radio direction-finding station"
+  },
+  {
+    "Code": 53,
+    "ID": 6,
+    "Meaning": "coast radio station providing QTG service"
+  },
+  {
+    "Code": 53,
+    "ID": 7,
+    "Meaning": "aeronautical radiobeacon"
+  },
+  {
+    "Code": 53,
+    "ID": 8,
+    "Meaning": "Decca"
+  },
+  {
+    "Code": 53,
+    "ID": 9,
+    "Meaning": "Loran C"
+  },
+  {
+    "Code": 53,
+    "ID": 10,
+    "Meaning": "Differential GPS"
+  },
+  {
+    "Code": 53,
+    "ID": 11,
+    "Meaning": "Toran"
+  },
+  {
+    "Code": 53,
+    "ID": 12,
+    "Meaning": "Omega"
+  },
+  {
+    "Code": 53,
+    "ID": 13,
+    "Meaning": "Syledis"
+  },
+  {
+    "Code": 53,
+    "ID": 14,
+    "Meaning": "Chaika (Chayka)"
+  },
+  {
+    "Code": 54,
+    "ID": 1,
+    "Meaning": "based on a system of fixed marks"
+  },
+  {
+    "Code": 54,
+    "ID": 2,
+    "Meaning": "not based on a system of fixed marks"
+  },
+  {
+    "Code": 55,
+    "ID": 1,
+    "Meaning": "rescue station with lifeboat"
+  },
+  {
+    "Code": 55,
+    "ID": 2,
+    "Meaning": "rescue station with rocket"
+  },
+  {
+    "Code": 55,
+    "ID": 4,
+    "Meaning": "refuge for shipwrecked mariners"
+  },
+  {
+    "Code": 55,
+    "ID": 5,
+    "Meaning": "refuge for intertidal area walkers"
+  },
+  {
+    "Code": 55,
+    "ID": 6,
+    "Meaning": "lifeboat lying at a mooring"
+  },
+  {
+    "Code": 56,
+    "ID": 1,
+    "Meaning": "offshore safety zone"
+  },
+  {
+    "Code": 56,
+    "ID": 4,
+    "Meaning": "nature reserve"
+  },
+  {
+    "Code": 56,
+    "ID": 5,
+    "Meaning": "bird sanctuary"
+  },
+  {
+    "Code": 56,
+    "ID": 6,
+    "Meaning": "game preserve"
+  },
+  {
+    "Code": 56,
+    "ID": 7,
+    "Meaning": "seal sanctuary"
+  },
+  {
+    "Code": 56,
+    "ID": 8,
+    "Meaning": "degaussing range"
+  },
+  {
+    "Code": 56,
+    "ID": 9,
+    "Meaning": "military area"
+  },
+  {
+    "Code": 56,
+    "ID": 10,
+    "Meaning": "historic wreck area"
+  },
+  {
+    "Code": 56,
+    "ID": 12,
+    "Meaning": "navigational aid safety zone"
+  },
+  {
+    "Code": 56,
+    "ID": 14,
+    "Meaning": "minefield"
+  },
+  {
+    "Code": 56,
+    "ID": 18,
+    "Meaning": "swimming area"
+  },
+  {
+    "Code": 56,
+    "ID": 19,
+    "Meaning": "waiting area"
+  },
+  {
+    "Code": 56,
+    "ID": 20,
+    "Meaning": "research area"
+  },
+  {
+    "Code": 56,
+    "ID": 21,
+    "Meaning": "dredging area"
+  },
+  {
+    "Code": 56,
+    "ID": 22,
+    "Meaning": "fish sanctuary"
+  },
+  {
+    "Code": 56,
+    "ID": 23,
+    "Meaning": "ecological reserve"
+  },
+  {
+    "Code": 56,
+    "ID": 24,
+    "Meaning": "no wake area"
+  },
+  {
+    "Code": 56,
+    "ID": 25,
+    "Meaning": "swinging area"
+  },
+  {
+    "Code": 56,
+    "ID": 26,
+    "Meaning": "water skiing area"
+  },
+  {
+    "Code": 57,
+    "ID": 1,
+    "Meaning": "motorway"
+  },
+  {
+    "Code": 57,
+    "ID": 2,
+    "Meaning": "major road"
+  },
+  {
+    "Code": 57,
+    "ID": 3,
+    "Meaning": "minor road"
+  },
+  {
+    "Code": 57,
+    "ID": 4,
+    "Meaning": "track / path"
+  },
+  {
+    "Code": 57,
+    "ID": 5,
+    "Meaning": "major street"
+  },
+  {
+    "Code": 57,
+    "ID": 6,
+    "Meaning": "minor street"
+  },
+  {
+    "Code": 57,
+    "ID": 7,
+    "Meaning": "crossing"
+  },
+  {
+    "Code": 58,
+    "ID": 1,
+    "Meaning": "aeroplane"
+  },
+  {
+    "Code": 58,
+    "ID": 2,
+    "Meaning": "helicopter landing pad"
+  },
+  {
+    "Code": 59,
+    "ID": 2,
+    "Meaning": "gat"
+  },
+  {
+    "Code": 59,
+    "ID": 3,
+    "Meaning": "bank"
+  },
+  {
+    "Code": 59,
+    "ID": 4,
+    "Meaning": "deep"
+  },
+  {
+    "Code": 59,
+    "ID": 5,
+    "Meaning": "bay"
+  },
+  {
+    "Code": 59,
+    "ID": 6,
+    "Meaning": "trench"
+  },
+  {
+    "Code": 59,
+    "ID": 7,
+    "Meaning": "basin"
+  },
+  {
+    "Code": 59,
+    "ID": 8,
+    "Meaning": "mud flats"
+  },
+  {
+    "Code": 59,
+    "ID": 9,
+    "Meaning": "reef"
+  },
+  {
+    "Code": 59,
+    "ID": 10,
+    "Meaning": "ledge"
+  },
+  {
+    "Code": 59,
+    "ID": 11,
+    "Meaning": "canyon"
+  },
+  {
+    "Code": 59,
+    "ID": 12,
+    "Meaning": "narrows"
+  },
+  {
+    "Code": 59,
+    "ID": 13,
+    "Meaning": "shoal"
+  },
+  {
+    "Code": 59,
+    "ID": 14,
+    "Meaning": "knoll"
+  },
+  {
+    "Code": 59,
+    "ID": 15,
+    "Meaning": "ridge"
+  },
+  {
+    "Code": 59,
+    "ID": 16,
+    "Meaning": "seamount"
+  },
+  {
+    "Code": 59,
+    "ID": 17,
+    "Meaning": "pinnacle"
+  },
+  {
+    "Code": 59,
+    "ID": 18,
+    "Meaning": "abyssal plain"
+  },
+  {
+    "Code": 59,
+    "ID": 19,
+    "Meaning": "plateau"
+  },
+  {
+    "Code": 59,
+    "ID": 20,
+    "Meaning": "spur"
+  },
+  {
+    "Code": 59,
+    "ID": 21,
+    "Meaning": "shelf"
+  },
+  {
+    "Code": 59,
+    "ID": 22,
+    "Meaning": "trough"
+  },
+  {
+    "Code": 59,
+    "ID": 23,
+    "Meaning": "saddle"
+  },
+  {
+    "Code": 59,
+    "ID": 24,
+    "Meaning": "abyssal hills"
+  },
+  {
+    "Code": 59,
+    "ID": 25,
+    "Meaning": "apron"
+  },
+  {
+    "Code": 59,
+    "ID": 26,
+    "Meaning": "archipelagic apron"
+  },
+  {
+    "Code": 59,
+    "ID": 27,
+    "Meaning": "borderland"
+  },
+  {
+    "Code": 59,
+    "ID": 28,
+    "Meaning": "continental margin"
+  },
+  {
+    "Code": 59,
+    "ID": 29,
+    "Meaning": "continental rise"
+  },
+  {
+    "Code": 59,
+    "ID": 30,
+    "Meaning": "escarpment"
+  },
+  {
+    "Code": 59,
+    "ID": 31,
+    "Meaning": "fan"
+  },
+  {
+    "Code": 59,
+    "ID": 32,
+    "Meaning": "fracture zone"
+  },
+  {
+    "Code": 59,
+    "ID": 33,
+    "Meaning": "gap"
+  },
+  {
+    "Code": 59,
+    "ID": 34,
+    "Meaning": "guyot"
+  },
+  {
+    "Code": 59,
+    "ID": 35,
+    "Meaning": "hill"
+  },
+  {
+    "Code": 59,
+    "ID": 36,
+    "Meaning": "hole"
+  },
+  {
+    "Code": 59,
+    "ID": 37,
+    "Meaning": "levee"
+  },
+  {
+    "Code": 59,
+    "ID": 38,
+    "Meaning": "median valley"
+  },
+  {
+    "Code": 59,
+    "ID": 39,
+    "Meaning": "moat"
+  },
+  {
+    "Code": 59,
+    "ID": 40,
+    "Meaning": "mountains"
+  },
+  {
+    "Code": 59,
+    "ID": 41,
+    "Meaning": "peak"
+  },
+  {
+    "Code": 59,
+    "ID": 42,
+    "Meaning": "province"
+  },
+  {
+    "Code": 59,
+    "ID": 43,
+    "Meaning": "rise"
+  },
+  {
+    "Code": 59,
+    "ID": 44,
+    "Meaning": "seachannel"
+  },
+  {
+    "Code": 59,
+    "ID": 45,
+    "Meaning": "seamount chain"
+  },
+  {
+    "Code": 59,
+    "ID": 46,
+    "Meaning": "shelf edge"
+  },
+  {
+    "Code": 59,
+    "ID": 47,
+    "Meaning": "sill"
+  },
+  {
+    "Code": 59,
+    "ID": 48,
+    "Meaning": "slope"
+  },
+  {
+    "Code": 59,
+    "ID": 49,
+    "Meaning": "terrace"
+  },
+  {
+    "Code": 59,
+    "ID": 50,
+    "Meaning": "valley"
+  },
+  {
+    "Code": 59,
+    "ID": 51,
+    "Meaning": "canal"
+  },
+  {
+    "Code": 59,
+    "ID": 52,
+    "Meaning": "lake"
+  },
+  {
+    "Code": 59,
+    "ID": 53,
+    "Meaning": "river"
+  },
+  {
+    "Code": 60,
+    "ID": 1,
+    "Meaning": "breakwater"
+  },
+  {
+    "Code": 60,
+    "ID": 2,
+    "Meaning": "groyne (groin)"
+  },
+  {
+    "Code": 60,
+    "ID": 3,
+    "Meaning": "mole"
+  },
+  {
+    "Code": 60,
+    "ID": 4,
+    "Meaning": "pier ( jetty)"
+  },
+  {
+    "Code": 60,
+    "ID": 5,
+    "Meaning": "promenadepier"
+  },
+  {
+    "Code": 60,
+    "ID": 6,
+    "Meaning": "wharf (quay)"
+  },
+  {
+    "Code": 60,
+    "ID": 7,
+    "Meaning": "training wall"
+  },
+  {
+    "Code": 60,
+    "ID": 8,
+    "Meaning": "rip rap"
+  },
+  {
+    "Code": 60,
+    "ID": 9,
+    "Meaning": "revetment"
+  },
+  {
+    "Code": 60,
+    "ID": 10,
+    "Meaning": "sea wall"
+  },
+  {
+    "Code": 60,
+    "ID": 11,
+    "Meaning": "landing steps"
+  },
+  {
+    "Code": 60,
+    "ID": 12,
+    "Meaning": "ramp"
+  },
+  {
+    "Code": 60,
+    "ID": 13,
+    "Meaning": "slipway"
+  },
+  {
+    "Code": 60,
+    "ID": 14,
+    "Meaning": "fender"
+  },
+  {
+    "Code": 60,
+    "ID": 15,
+    "Meaning": "solid face wharf"
+  },
+  {
+    "Code": 60,
+    "ID": 16,
+    "Meaning": "open face wharf"
+  },
+  {
+    "Code": 61,
+    "ID": 1,
+    "Meaning": "port control"
+  },
+  {
+    "Code": 61,
+    "ID": 2,
+    "Meaning": "port entry and departure"
+  },
+  {
+    "Code": 61,
+    "ID": 3,
+    "Meaning": "International Port Traffic"
+  },
+  {
+    "Code": 61,
+    "ID": 4,
+    "Meaning": "berthing"
+  },
+  {
+    "Code": 61,
+    "ID": 5,
+    "Meaning": "dock"
+  },
+  {
+    "Code": 61,
+    "ID": 6,
+    "Meaning": "lock"
+  },
+  {
+    "Code": 61,
+    "ID": 7,
+    "Meaning": "flood barrage"
+  },
+  {
+    "Code": 61,
+    "ID": 8,
+    "Meaning": "bridge passage"
+  },
+  {
+    "Code": 61,
+    "ID": 9,
+    "Meaning": "dredging"
+  },
+  {
+    "Code": 62,
+    "ID": 1,
+    "Meaning": "danger"
+  },
+  {
+    "Code": 62,
+    "ID": 2,
+    "Meaning": "maritime obstruction"
+  },
+  {
+    "Code": 62,
+    "ID": 3,
+    "Meaning": "cable"
+  },
+  {
+    "Code": 62,
+    "ID": 4,
+    "Meaning": "military practice"
+  },
+  {
+    "Code": 62,
+    "ID": 5,
+    "Meaning": "distress"
+  },
+  {
+    "Code": 62,
+    "ID": 6,
+    "Meaning": "weather"
+  },
+  {
+    "Code": 62,
+    "ID": 7,
+    "Meaning": "storm"
+  },
+  {
+    "Code": 62,
+    "ID": 8,
+    "Meaning": "ice"
+  },
+  {
+    "Code": 62,
+    "ID": 9,
+    "Meaning": "time"
+  },
+  {
+    "Code": 62,
+    "ID": 10,
+    "Meaning": "tide"
+  },
+  {
+    "Code": 62,
+    "ID": 11,
+    "Meaning": "tidal stream"
+  },
+  {
+    "Code": 62,
+    "ID": 12,
+    "Meaning": "tide gauge"
+  },
+  {
+    "Code": 62,
+    "ID": 13,
+    "Meaning": "tide scale"
+  },
+  {
+    "Code": 62,
+    "ID": 14,
+    "Meaning": "diving"
+  },
+  {
+    "Code": 63,
+    "ID": 1,
+    "Meaning": "silo in general"
+  },
+  {
+    "Code": 63,
+    "ID": 2,
+    "Meaning": "tank in general"
+  },
+  {
+    "Code": 63,
+    "ID": 3,
+    "Meaning": "grain elevator"
+  },
+  {
+    "Code": 63,
+    "ID": 4,
+    "Meaning": "water tower"
+  },
+  {
+    "Code": 64,
+    "ID": 1,
+    "Meaning": "cutting"
+  },
+  {
+    "Code": 64,
+    "ID": 2,
+    "Meaning": "embankment"
+  },
+  {
+    "Code": 64,
+    "ID": 3,
+    "Meaning": "dune"
+  },
+  {
+    "Code": 64,
+    "ID": 4,
+    "Meaning": "hill"
+  },
+  {
+    "Code": 64,
+    "ID": 5,
+    "Meaning": "pingo"
+  },
+  {
+    "Code": 64,
+    "ID": 6,
+    "Meaning": "cliff"
+  },
+  {
+    "Code": 64,
+    "ID": 7,
+    "Meaning": "scree"
+  },
+  {
+    "Code": 65,
+    "ID": 1,
+    "Meaning": "visitor`s berth"
+  },
+  {
+    "Code": 65,
+    "ID": 2,
+    "Meaning": "nautical club"
+  },
+  {
+    "Code": 65,
+    "ID": 3,
+    "Meaning": "boat hoist"
+  },
+  {
+    "Code": 65,
+    "ID": 4,
+    "Meaning": "sailmaker"
+  },
+  {
+    "Code": 65,
+    "ID": 5,
+    "Meaning": "boatyard"
+  },
+  {
+    "Code": 65,
+    "ID": 6,
+    "Meaning": "public inn"
+  },
+  {
+    "Code": 65,
+    "ID": 7,
+    "Meaning": "restaurant"
+  },
+  {
+    "Code": 65,
+    "ID": 8,
+    "Meaning": "chandler"
+  },
+  {
+    "Code": 65,
+    "ID": 9,
+    "Meaning": "provisions"
+  },
+  {
+    "Code": 65,
+    "ID": 10,
+    "Meaning": "doctor"
+  },
+  {
+    "Code": 65,
+    "ID": 11,
+    "Meaning": "pharmacy"
+  },
+  {
+    "Code": 65,
+    "ID": 12,
+    "Meaning": "water tap"
+  },
+  {
+    "Code": 65,
+    "ID": 13,
+    "Meaning": "fuel station"
+  },
+  {
+    "Code": 65,
+    "ID": 14,
+    "Meaning": "electricity"
+  },
+  {
+    "Code": 65,
+    "ID": 15,
+    "Meaning": "bottle gas"
+  },
+  {
+    "Code": 65,
+    "ID": 16,
+    "Meaning": "showers"
+  },
+  {
+    "Code": 65,
+    "ID": 17,
+    "Meaning": "launderette"
+  },
+  {
+    "Code": 65,
+    "ID": 18,
+    "Meaning": "public toilets"
+  },
+  {
+    "Code": 65,
+    "ID": 19,
+    "Meaning": "post box"
+  },
+  {
+    "Code": 65,
+    "ID": 20,
+    "Meaning": "public telephone"
+  },
+  {
+    "Code": 65,
+    "ID": 21,
+    "Meaning": "refuse bin"
+  },
+  {
+    "Code": 65,
+    "ID": 22,
+    "Meaning": "car park"
+  },
+  {
+    "Code": 65,
+    "ID": 23,
+    "Meaning": "parking for boats and trailers"
+  },
+  {
+    "Code": 65,
+    "ID": 24,
+    "Meaning": "caravan site"
+  },
+  {
+    "Code": 65,
+    "ID": 25,
+    "Meaning": "camping site"
+  },
+  {
+    "Code": 65,
+    "ID": 26,
+    "Meaning": "sewerage pump-out station"
+  },
+  {
+    "Code": 65,
+    "ID": 27,
+    "Meaning": "emergency telephone"
+  },
+  {
+    "Code": 65,
+    "ID": 28,
+    "Meaning": "landing / launching place for boats"
+  },
+  {
+    "Code": 65,
+    "ID": 29,
+    "Meaning": "visitors mooring"
+  },
+  {
+    "Code": 65,
+    "ID": 30,
+    "Meaning": "scrubbing berth"
+  },
+  {
+    "Code": 65,
+    "ID": 31,
+    "Meaning": "picnic area"
+  },
+  {
+    "Code": 65,
+    "ID": 32,
+    "Meaning": "mechanics workshop"
+  },
+  {
+    "Code": 65,
+    "ID": 33,
+    "Meaning": "guard and/or security service"
+  },
+  {
+    "Code": 66,
+    "ID": 1,
+    "Meaning": "firing danger area mark"
+  },
+  {
+    "Code": 66,
+    "ID": 2,
+    "Meaning": "target mark"
+  },
+  {
+    "Code": 66,
+    "ID": 3,
+    "Meaning": "marker ship mark"
+  },
+  {
+    "Code": 66,
+    "ID": 4,
+    "Meaning": "degaussing range mark"
+  },
+  {
+    "Code": 66,
+    "ID": 5,
+    "Meaning": "barge mark"
+  },
+  {
+    "Code": 66,
+    "ID": 6,
+    "Meaning": "cable mark"
+  },
+  {
+    "Code": 66,
+    "ID": 7,
+    "Meaning": "spoil ground mark"
+  },
+  {
+    "Code": 66,
+    "ID": 8,
+    "Meaning": "outfall mark"
+  },
+  {
+    "Code": 66,
+    "ID": 9,
+    "Meaning": "ODAS (Ocean-Data-Acquisition-System)"
+  },
+  {
+    "Code": 66,
+    "ID": 10,
+    "Meaning": "recording mark"
+  },
+  {
+    "Code": 66,
+    "ID": 11,
+    "Meaning": "seaplane anchorage mark"
+  },
+  {
+    "Code": 66,
+    "ID": 12,
+    "Meaning": "recreation zone mark"
+  },
+  {
+    "Code": 66,
+    "ID": 13,
+    "Meaning": "private mark"
+  },
+  {
+    "Code": 66,
+    "ID": 14,
+    "Meaning": "mooring mark"
+  },
+  {
+    "Code": 66,
+    "ID": 15,
+    "Meaning": "LANBY (Large Automatic Navigational Buoy)"
+  },
+  {
+    "Code": 66,
+    "ID": 16,
+    "Meaning": "leading mark"
+  },
+  {
+    "Code": 66,
+    "ID": 17,
+    "Meaning": "measured distance mark"
+  },
+  {
+    "Code": 66,
+    "ID": 18,
+    "Meaning": "notice mark"
+  },
+  {
+    "Code": 66,
+    "ID": 19,
+    "Meaning": "TSS mark (Traffic Separation Scheme)"
+  },
+  {
+    "Code": 66,
+    "ID": 20,
+    "Meaning": "anchoring prohibited mark"
+  },
+  {
+    "Code": 66,
+    "ID": 21,
+    "Meaning": "berthing prohibited mark"
+  },
+  {
+    "Code": 66,
+    "ID": 22,
+    "Meaning": "overtaking prohibited mark"
+  },
+  {
+    "Code": 66,
+    "ID": 23,
+    "Meaning": "two-way traffic prohibited mark"
+  },
+  {
+    "Code": 66,
+    "ID": 24,
+    "Meaning": "reduced wake' mark"
+  },
+  {
+    "Code": 66,
+    "ID": 25,
+    "Meaning": "speed limit mark"
+  },
+  {
+    "Code": 66,
+    "ID": 26,
+    "Meaning": "stop mark"
+  },
+  {
+    "Code": 66,
+    "ID": 27,
+    "Meaning": "general warning mark"
+  },
+  {
+    "Code": 66,
+    "ID": 28,
+    "Meaning": "sound ship's siren' mark"
+  },
+  {
+    "Code": 66,
+    "ID": 29,
+    "Meaning": "restricted vertical clearence mark"
+  },
+  {
+    "Code": 66,
+    "ID": 30,
+    "Meaning": "maximum vessel's draught mark"
+  },
+  {
+    "Code": 66,
+    "ID": 31,
+    "Meaning": "restricted horizontal clearance mark"
+  },
+  {
+    "Code": 66,
+    "ID": 32,
+    "Meaning": "strong current warning mark"
+  },
+  {
+    "Code": 66,
+    "ID": 33,
+    "Meaning": "berthing permitted mark"
+  },
+  {
+    "Code": 66,
+    "ID": 34,
+    "Meaning": "overhead power cable mark"
+  },
+  {
+    "Code": 66,
+    "ID": 35,
+    "Meaning": "channel edge gradient' mark"
+  },
+  {
+    "Code": 66,
+    "ID": 36,
+    "Meaning": "telephone mark"
+  },
+  {
+    "Code": 66,
+    "ID": 37,
+    "Meaning": "ferry crossing mark"
+  },
+  {
+    "Code": 66,
+    "ID": 39,
+    "Meaning": "pipline mark"
+  },
+  {
+    "Code": 66,
+    "ID": 40,
+    "Meaning": "anchorage mark"
+  },
+  {
+    "Code": 66,
+    "ID": 41,
+    "Meaning": "clearing mark"
+  },
+  {
+    "Code": 66,
+    "ID": 42,
+    "Meaning": "control mark"
+  },
+  {
+    "Code": 66,
+    "ID": 43,
+    "Meaning": "diving mark"
+  },
+  {
+    "Code": 66,
+    "ID": 44,
+    "Meaning": "refuge beacon"
+  },
+  {
+    "Code": 66,
+    "ID": 45,
+    "Meaning": "foul ground mark"
+  },
+  {
+    "Code": 66,
+    "ID": 46,
+    "Meaning": "yachting mark"
+  },
+  {
+    "Code": 66,
+    "ID": 47,
+    "Meaning": "heliport mark"
+  },
+  {
+    "Code": 66,
+    "ID": 48,
+    "Meaning": "GPS mark"
+  },
+  {
+    "Code": 66,
+    "ID": 49,
+    "Meaning": "seaplane landing mark"
+  },
+  {
+    "Code": 66,
+    "ID": 50,
+    "Meaning": "entry prohibited mark"
+  },
+  {
+    "Code": 66,
+    "ID": 51,
+    "Meaning": "work in progress mark"
+  },
+  {
+    "Code": 66,
+    "ID": 52,
+    "Meaning": "mark with unknown purpose"
+  },
+  {
+    "Code": 66,
+    "ID": 54,
+    "Meaning": "channel separation mark"
+  },
+  {
+    "Code": 66,
+    "ID": 55,
+    "Meaning": "marine farm mark"
+  },
+  {
+    "Code": 67,
+    "ID": 1,
+    "Meaning": "IMO - adopted"
+  },
+  {
+    "Code": 67,
+    "ID": 2,
+    "Meaning": "not IMO - adopted"
+  },
+  {
+    "Code": 68,
+    "ID": 1,
+    "Meaning": "grassland"
+  },
+  {
+    "Code": 68,
+    "ID": 3,
+    "Meaning": "bush"
+  },
+  {
+    "Code": 68,
+    "ID": 4,
+    "Meaning": "deciduous wood"
+  },
+  {
+    "Code": 68,
+    "ID": 5,
+    "Meaning": "coniferous  wood"
+  },
+  {
+    "Code": 68,
+    "ID": 6,
+    "Meaning": "wood in general (inc mixed wood)"
+  },
+  {
+    "Code": 68,
+    "ID": 7,
+    "Meaning": "mangroves"
+  },
+  {
+    "Code": 68,
+    "ID": 10,
+    "Meaning": "mixed crops"
+  },
+  {
+    "Code": 68,
+    "ID": 11,
+    "Meaning": "reed"
+  },
+  {
+    "Code": 68,
+    "ID": 12,
+    "Meaning": "moos"
+  },
+  {
+    "Code": 68,
+    "ID": 13,
+    "Meaning": "tree in general"
+  },
+  {
+    "Code": 68,
+    "ID": 14,
+    "Meaning": "evergreen tree"
+  },
+  {
+    "Code": 68,
+    "ID": 15,
+    "Meaning": "coniferous tree"
+  },
+  {
+    "Code": 68,
+    "ID": 16,
+    "Meaning": "palm tree"
+  },
+  {
+    "Code": 68,
+    "ID": 17,
+    "Meaning": "nipa palm tree"
+  },
+  {
+    "Code": 68,
+    "ID": 18,
+    "Meaning": "casuarina tree"
+  },
+  {
+    "Code": 68,
+    "ID": 19,
+    "Meaning": "eucalypt tree"
+  },
+  {
+    "Code": 68,
+    "ID": 20,
+    "Meaning": "deciduous tree"
+  },
+  {
+    "Code": 68,
+    "ID": 21,
+    "Meaning": "mangrove tree"
+  },
+  {
+    "Code": 68,
+    "ID": 22,
+    "Meaning": "filao tree"
+  },
+  {
+    "Code": 69,
+    "ID": 1,
+    "Meaning": "breakers"
+  },
+  {
+    "Code": 69,
+    "ID": 2,
+    "Meaning": "eddies"
+  },
+  {
+    "Code": 69,
+    "ID": 3,
+    "Meaning": "overfalls"
+  },
+  {
+    "Code": 69,
+    "ID": 4,
+    "Meaning": "tide rips"
+  },
+  {
+    "Code": 69,
+    "ID": 5,
+    "Meaning": "bombora"
+  },
+  {
+    "Code": 70,
+    "ID": 1,
+    "Meaning": "kelp"
+  },
+  {
+    "Code": 70,
+    "ID": 2,
+    "Meaning": "sea weed"
+  },
+  {
+    "Code": 70,
+    "ID": 3,
+    "Meaning": "sea grass"
+  },
+  {
+    "Code": 70,
+    "ID": 4,
+    "Meaning": "saragasso"
+  },
+  {
+    "Code": 71,
+    "ID": 1,
+    "Meaning": "non-dangerous wreck"
+  },
+  {
+    "Code": 71,
+    "ID": 2,
+    "Meaning": "dangerous wreck"
+  },
+  {
+    "Code": 71,
+    "ID": 3,
+    "Meaning": "distributed remains of wreck"
+  },
+  {
+    "Code": 71,
+    "ID": 4,
+    "Meaning": "wreck showing mast/masts"
+  },
+  {
+    "Code": 71,
+    "ID": 5,
+    "Meaning": "wreck showing any portion of hull or superstructure"
+  },
+  {
+    "Code": 72,
+    "ID": 1,
+    "Meaning": "zone of confidence A1"
+  },
+  {
+    "Code": 72,
+    "ID": 2,
+    "Meaning": "zone of confidence A2"
+  },
+  {
+    "Code": 72,
+    "ID": 3,
+    "Meaning": "zone of confidence B"
+  },
+  {
+    "Code": 72,
+    "ID": 4,
+    "Meaning": "zone of confidence C"
+  },
+  {
+    "Code": 72,
+    "ID": 5,
+    "Meaning": "zone of confidence D"
+  },
+  {
+    "Code": 72,
+    "ID": 6,
+    "Meaning": "zone of confidence U (data not assessed)"
+  },
+  {
+    "Code": 73,
+    "ID": 1,
+    "Meaning": "expanded/condensed"
+  },
+  {
+    "Code": 73,
+    "ID": 2,
+    "Meaning": "standard"
+  },
+  {
+    "Code": 75,
+    "ID": 1,
+    "Meaning": "white"
+  },
+  {
+    "Code": 75,
+    "ID": 2,
+    "Meaning": "black"
+  },
+  {
+    "Code": 75,
+    "ID": 3,
+    "Meaning": "red"
+  },
+  {
+    "Code": 75,
+    "ID": 4,
+    "Meaning": "green"
+  },
+  {
+    "Code": 75,
+    "ID": 5,
+    "Meaning": "blue"
+  },
+  {
+    "Code": 75,
+    "ID": 6,
+    "Meaning": "yellow"
+  },
+  {
+    "Code": 75,
+    "ID": 7,
+    "Meaning": "grey"
+  },
+  {
+    "Code": 75,
+    "ID": 8,
+    "Meaning": "brown"
+  },
+  {
+    "Code": 75,
+    "ID": 9,
+    "Meaning": "amber"
+  },
+  {
+    "Code": 75,
+    "ID": 10,
+    "Meaning": "violet"
+  },
+  {
+    "Code": 75,
+    "ID": 11,
+    "Meaning": "orange"
+  },
+  {
+    "Code": 75,
+    "ID": 12,
+    "Meaning": "magenta"
+  },
+  {
+    "Code": 75,
+    "ID": 13,
+    "Meaning": "pink"
+  },
+  {
+    "Code": 76,
+    "ID": 1,
+    "Meaning": "horizontal stripes"
+  },
+  {
+    "Code": 76,
+    "ID": 2,
+    "Meaning": "vertical stripes"
+  },
+  {
+    "Code": 76,
+    "ID": 3,
+    "Meaning": "diagonal stripes"
+  },
+  {
+    "Code": 76,
+    "ID": 4,
+    "Meaning": "squared"
+  },
+  {
+    "Code": 76,
+    "ID": 5,
+    "Meaning": "stripes (direction unknown)"
+  },
+  {
+    "Code": 76,
+    "ID": 6,
+    "Meaning": "border stripes"
+  },
+  {
+    "Code": 81,
+    "ID": 1,
+    "Meaning": "under construction"
+  },
+  {
+    "Code": 81,
+    "ID": 2,
+    "Meaning": "ruined"
+  },
+  {
+    "Code": 81,
+    "ID": 3,
+    "Meaning": "under reclamation"
+  },
+  {
+    "Code": 81,
+    "ID": 4,
+    "Meaning": "wingless"
+  },
+  {
+    "Code": 81,
+    "ID": 5,
+    "Meaning": "planned construction"
+  },
+  {
+    "Code": 82,
+    "ID": 1,
+    "Meaning": "radar conspicuous"
+  },
+  {
+    "Code": 82,
+    "ID": 2,
+    "Meaning": "not radar conspicuous"
+  },
+  {
+    "Code": 82,
+    "ID": 3,
+    "Meaning": "radar conspicuous (has radar reflector)"
+  },
+  {
+    "Code": 83,
+    "ID": 1,
+    "Meaning": "visual conspicuous"
+  },
+  {
+    "Code": 83,
+    "ID": 2,
+    "Meaning": "not visual conspicuous"
+  },
+  {
+    "Code": 89,
+    "ID": 1,
+    "Meaning": "metres"
+  },
+  {
+    "Code": 89,
+    "ID": 2,
+    "Meaning": "fathoms and feet"
+  },
+  {
+    "Code": 89,
+    "ID": 3,
+    "Meaning": "feet"
+  },
+  {
+    "Code": 89,
+    "ID": 4,
+    "Meaning": "fathoms and fractions"
+  },
+  {
+    "Code": 92,
+    "ID": 1,
+    "Meaning": "Light shown without change of character."
+  },
+  {
+    "Code": 92,
+    "ID": 2,
+    "Meaning": "Daytime light."
+  },
+  {
+    "Code": 92,
+    "ID": 3,
+    "Meaning": "Fog light."
+  },
+  {
+    "Code": 92,
+    "ID": 4,
+    "Meaning": "Night light."
+  },
+  {
+    "Code": 93,
+    "ID": 1,
+    "Meaning": "within the range of depth of the surrounding depth area"
+  },
+  {
+    "Code": 93,
+    "ID": 2,
+    "Meaning": "shoaler than range of depth of the surrounding depth area"
+  },
+  {
+    "Code": 93,
+    "ID": 3,
+    "Meaning": "deeper than range of depth of the surrounding depth area"
+  },
+  {
+    "Code": 94,
+    "ID": 2,
+    "Meaning": "harbour-master's office"
+  },
+  {
+    "Code": 94,
+    "ID": 3,
+    "Meaning": "custom office"
+  },
+  {
+    "Code": 94,
+    "ID": 4,
+    "Meaning": "health office"
+  },
+  {
+    "Code": 94,
+    "ID": 5,
+    "Meaning": "hospital"
+  },
+  {
+    "Code": 94,
+    "ID": 6,
+    "Meaning": "post office"
+  },
+  {
+    "Code": 94,
+    "ID": 7,
+    "Meaning": "hotel"
+  },
+  {
+    "Code": 94,
+    "ID": 8,
+    "Meaning": "railway station"
+  },
+  {
+    "Code": 94,
+    "ID": 9,
+    "Meaning": "police station"
+  },
+  {
+    "Code": 94,
+    "ID": 10,
+    "Meaning": "water-police station"
+  },
+  {
+    "Code": 94,
+    "ID": 11,
+    "Meaning": "pilot office"
+  },
+  {
+    "Code": 94,
+    "ID": 12,
+    "Meaning": "pilot lookout"
+  },
+  {
+    "Code": 94,
+    "ID": 13,
+    "Meaning": "bank office"
+  },
+  {
+    "Code": 94,
+    "ID": 14,
+    "Meaning": "headquarters for district control"
+  },
+  {
+    "Code": 94,
+    "ID": 15,
+    "Meaning": "transit shed/warehouse"
+  },
+  {
+    "Code": 94,
+    "ID": 16,
+    "Meaning": "factory"
+  },
+  {
+    "Code": 94,
+    "ID": 17,
+    "Meaning": "power station"
+  },
+  {
+    "Code": 94,
+    "ID": 18,
+    "Meaning": "administrative"
+  },
+  {
+    "Code": 94,
+    "ID": 19,
+    "Meaning": "educational facility"
+  },
+  {
+    "Code": 94,
+    "ID": 20,
+    "Meaning": "church"
+  },
+  {
+    "Code": 94,
+    "ID": 21,
+    "Meaning": "chapel"
+  },
+  {
+    "Code": 94,
+    "ID": 22,
+    "Meaning": "temple"
+  },
+  {
+    "Code": 94,
+    "ID": 23,
+    "Meaning": "pagoda"
+  },
+  {
+    "Code": 94,
+    "ID": 24,
+    "Meaning": "shinto shrine"
+  },
+  {
+    "Code": 94,
+    "ID": 25,
+    "Meaning": "buddhist temple"
+  },
+  {
+    "Code": 94,
+    "ID": 26,
+    "Meaning": "mosque"
+  },
+  {
+    "Code": 94,
+    "ID": 27,
+    "Meaning": "marabout"
+  },
+  {
+    "Code": 94,
+    "ID": 28,
+    "Meaning": "lookout"
+  },
+  {
+    "Code": 94,
+    "ID": 29,
+    "Meaning": "communication"
+  },
+  {
+    "Code": 94,
+    "ID": 30,
+    "Meaning": "television"
+  },
+  {
+    "Code": 94,
+    "ID": 31,
+    "Meaning": "radio"
+  },
+  {
+    "Code": 94,
+    "ID": 32,
+    "Meaning": "radar"
+  },
+  {
+    "Code": 94,
+    "ID": 33,
+    "Meaning": "light support"
+  },
+  {
+    "Code": 94,
+    "ID": 34,
+    "Meaning": "microwave"
+  },
+  {
+    "Code": 94,
+    "ID": 35,
+    "Meaning": "cooling"
+  },
+  {
+    "Code": 94,
+    "ID": 36,
+    "Meaning": "observation"
+  },
+  {
+    "Code": 94,
+    "ID": 37,
+    "Meaning": "timeball"
+  },
+  {
+    "Code": 94,
+    "ID": 38,
+    "Meaning": "clock"
+  },
+  {
+    "Code": 94,
+    "ID": 39,
+    "Meaning": "control"
+  },
+  {
+    "Code": 94,
+    "ID": 40,
+    "Meaning": "airship mooring"
+  },
+  {
+    "Code": 94,
+    "ID": 41,
+    "Meaning": "stadium"
+  },
+  {
+    "Code": 94,
+    "ID": 42,
+    "Meaning": "bus station"
+  },
+  {
+    "Code": 96,
+    "ID": 1,
+    "Meaning": "metres"
+  },
+  {
+    "Code": 96,
+    "ID": 2,
+    "Meaning": "feet"
+  },
+  {
+    "Code": 103,
+    "ID": 1,
+    "Meaning": "international"
+  },
+  {
+    "Code": 103,
+    "ID": 2,
+    "Meaning": "national"
+  },
+  {
+    "Code": 103,
+    "ID": 3,
+    "Meaning": "national sub-division"
+  },
+  {
+    "Code": 104,
+    "ID": 1,
+    "Meaning": "centre justified"
+  },
+  {
+    "Code": 104,
+    "ID": 2,
+    "Meaning": "right justified"
+  },
+  {
+    "Code": 104,
+    "ID": 3,
+    "Meaning": "left justified"
+  },
+  {
+    "Code": 105,
+    "ID": 1,
+    "Meaning": "bottom justified"
+  },
+  {
+    "Code": 105,
+    "ID": 2,
+    "Meaning": "centre justified"
+  },
+  {
+    "Code": 105,
+    "ID": 3,
+    "Meaning": "top justified"
+  },
+  {
+    "Code": 107,
+    "ID": 1,
+    "Meaning": "F"
+  },
+  {
+    "Code": 107,
+    "ID": 2,
+    "Meaning": "FL"
+  },
+  {
+    "Code": 107,
+    "ID": 3,
+    "Meaning": "LFL"
+  },
+  {
+    "Code": 107,
+    "ID": 4,
+    "Meaning": "Q"
+  },
+  {
+    "Code": 107,
+    "ID": 5,
+    "Meaning": "VQ"
+  },
+  {
+    "Code": 107,
+    "ID": 6,
+    "Meaning": "UQ"
+  },
+  {
+    "Code": 107,
+    "ID": 7,
+    "Meaning": "ISO"
+  },
+  {
+    "Code": 107,
+    "ID": 8,
+    "Meaning": "OC"
+  },
+  {
+    "Code": 107,
+    "ID": 9,
+    "Meaning": "IQ"
+  },
+  {
+    "Code": 107,
+    "ID": 10,
+    "Meaning": "IVQ"
+  },
+  {
+    "Code": 107,
+    "ID": 11,
+    "Meaning": "IUQ"
+  },
+  {
+    "Code": 107,
+    "ID": 12,
+    "Meaning": "MO"
+  },
+  {
+    "Code": 107,
+    "ID": 13,
+    "Meaning": "fixed / flash"
+  },
+  {
+    "Code": 107,
+    "ID": 14,
+    "Meaning": "flash / long-flash"
+  },
+  {
+    "Code": 107,
+    "ID": 15,
+    "Meaning": "occulting / flash"
+  },
+  {
+    "Code": 107,
+    "ID": 16,
+    "Meaning": "fixed / long-flash"
+  },
+  {
+    "Code": 107,
+    "ID": 17,
+    "Meaning": "OC AL"
+  },
+  {
+    "Code": 107,
+    "ID": 18,
+    "Meaning": "LFL AL"
+  },
+  {
+    "Code": 107,
+    "ID": 19,
+    "Meaning": "FL AL"
+  },
+  {
+    "Code": 107,
+    "ID": 20,
+    "Meaning": "GP AL"
+  },
+  {
+    "Code": 107,
+    "ID": 21,
+    "Meaning": "F [vertical]"
+  },
+  {
+    "Code": 107,
+    "ID": 25,
+    "Meaning": "quick-flash plus long-flash"
+  },
+  {
+    "Code": 107,
+    "ID": 26,
+    "Meaning": "very quick-flash plus long-flash"
+  },
+  {
+    "Code": 107,
+    "ID": 27,
+    "Meaning": "ultra quick-flash plus long-flash"
+  },
+  {
+    "Code": 107,
+    "ID": 28,
+    "Meaning": "AL"
+  },
+  {
+    "Code": 107,
+    "ID": 29,
+    "Meaning": "fixed and alternating flashing"
+  },
+  {
+    "Code": 108,
+    "ID": 1,
+    "Meaning": "high intensity"
+  },
+  {
+    "Code": 108,
+    "ID": 2,
+    "Meaning": "low intensity"
+  },
+  {
+    "Code": 108,
+    "ID": 3,
+    "Meaning": "faint"
+  },
+  {
+    "Code": 108,
+    "ID": 4,
+    "Meaning": "intensified"
+  },
+  {
+    "Code": 108,
+    "ID": 5,
+    "Meaning": "unintensified"
+  },
+  {
+    "Code": 108,
+    "ID": 6,
+    "Meaning": "visibility deliberately restricted"
+  },
+  {
+    "Code": 108,
+    "ID": 7,
+    "Meaning": "obscured"
+  },
+  {
+    "Code": 108,
+    "ID": 8,
+    "Meaning": "partially obscured"
+  },
+  {
+    "Code": 109,
+    "ID": 1,
+    "Meaning": "IALA A"
+  },
+  {
+    "Code": 109,
+    "ID": 2,
+    "Meaning": "IALA B"
+  },
+  {
+    "Code": 109,
+    "ID": 9,
+    "Meaning": "no system"
+  },
+  {
+    "Code": 109,
+    "ID": 10,
+    "Meaning": "other sytem"
+  },
+  {
+    "Code": 112,
+    "ID": 1,
+    "Meaning": "masonry"
+  },
+  {
+    "Code": 112,
+    "ID": 2,
+    "Meaning": "concreted"
+  },
+  {
+    "Code": 112,
+    "ID": 3,
+    "Meaning": "loose boulders"
+  },
+  {
+    "Code": 112,
+    "ID": 4,
+    "Meaning": "hard surfaced"
+  },
+  {
+    "Code": 112,
+    "ID": 5,
+    "Meaning": "unsurfaced"
+  },
+  {
+    "Code": 112,
+    "ID": 6,
+    "Meaning": "wooden"
+  },
+  {
+    "Code": 112,
+    "ID": 7,
+    "Meaning": "metal"
+  },
+  {
+    "Code": 112,
+    "ID": 8,
+    "Meaning": "glass reinforced plastic (GRP)"
+  },
+  {
+    "Code": 112,
+    "ID": 9,
+    "Meaning": "painted"
+  },
+  {
+    "Code": 113,
+    "ID": 1,
+    "Meaning": "mud"
+  },
+  {
+    "Code": 113,
+    "ID": 2,
+    "Meaning": "clay"
+  },
+  {
+    "Code": 113,
+    "ID": 3,
+    "Meaning": "silt"
+  },
+  {
+    "Code": 113,
+    "ID": 4,
+    "Meaning": "sand"
+  },
+  {
+    "Code": 113,
+    "ID": 5,
+    "Meaning": "stone"
+  },
+  {
+    "Code": 113,
+    "ID": 6,
+    "Meaning": "gravel"
+  },
+  {
+    "Code": 113,
+    "ID": 7,
+    "Meaning": "pebbles"
+  },
+  {
+    "Code": 113,
+    "ID": 8,
+    "Meaning": "cobbles"
+  },
+  {
+    "Code": 113,
+    "ID": 9,
+    "Meaning": "rock"
+  },
+  {
+    "Code": 113,
+    "ID": 11,
+    "Meaning": "lava"
+  },
+  {
+    "Code": 113,
+    "ID": 14,
+    "Meaning": "coral"
+  },
+  {
+    "Code": 113,
+    "ID": 17,
+    "Meaning": "shells"
+  },
+  {
+    "Code": 113,
+    "ID": 18,
+    "Meaning": "boulder"
+  },
+  {
+    "Code": 113,
+    "ID": 56,
+    "Meaning": "Bo"
+  },
+  {
+    "Code": 113,
+    "ID": 51,
+    "Meaning": "Wd"
+  },
+  {
+    "Code": 114,
+    "ID": 1,
+    "Meaning": "fine"
+  },
+  {
+    "Code": 114,
+    "ID": 2,
+    "Meaning": "medium"
+  },
+  {
+    "Code": 114,
+    "ID": 3,
+    "Meaning": "coarse"
+  },
+  {
+    "Code": 114,
+    "ID": 4,
+    "Meaning": "broken"
+  },
+  {
+    "Code": 114,
+    "ID": 5,
+    "Meaning": "sticky"
+  },
+  {
+    "Code": 114,
+    "ID": 6,
+    "Meaning": "soft"
+  },
+  {
+    "Code": 114,
+    "ID": 7,
+    "Meaning": "stiff"
+  },
+  {
+    "Code": 114,
+    "ID": 8,
+    "Meaning": "volcanic"
+  },
+  {
+    "Code": 114,
+    "ID": 9,
+    "Meaning": "calcareous"
+  },
+  {
+    "Code": 114,
+    "ID": 10,
+    "Meaning": "hard"
+  },
+  {
+    "Code": 123,
+    "ID": 1,
+    "Meaning": "oil"
+  },
+  {
+    "Code": 123,
+    "ID": 2,
+    "Meaning": "gas"
+  },
+  {
+    "Code": 123,
+    "ID": 3,
+    "Meaning": "water"
+  },
+  {
+    "Code": 123,
+    "ID": 4,
+    "Meaning": "stone"
+  },
+  {
+    "Code": 123,
+    "ID": 5,
+    "Meaning": "coal"
+  },
+  {
+    "Code": 123,
+    "ID": 6,
+    "Meaning": "ore"
+  },
+  {
+    "Code": 123,
+    "ID": 7,
+    "Meaning": "chemicals"
+  },
+  {
+    "Code": 123,
+    "ID": 8,
+    "Meaning": "drinking water"
+  },
+  {
+    "Code": 123,
+    "ID": 9,
+    "Meaning": "milk"
+  },
+  {
+    "Code": 123,
+    "ID": 10,
+    "Meaning": "bauxite"
+  },
+  {
+    "Code": 123,
+    "ID": 11,
+    "Meaning": "coke"
+  },
+  {
+    "Code": 123,
+    "ID": 12,
+    "Meaning": "iron ingots"
+  },
+  {
+    "Code": 123,
+    "ID": 13,
+    "Meaning": "salt"
+  },
+  {
+    "Code": 123,
+    "ID": 14,
+    "Meaning": "sand"
+  },
+  {
+    "Code": 123,
+    "ID": 15,
+    "Meaning": "timber"
+  },
+  {
+    "Code": 123,
+    "ID": 16,
+    "Meaning": "sawdust / wood chips"
+  },
+  {
+    "Code": 123,
+    "ID": 17,
+    "Meaning": "scrap metal"
+  },
+  {
+    "Code": 123,
+    "ID": 18,
+    "Meaning": "liquified natural gas (LNG)"
+  },
+  {
+    "Code": 123,
+    "ID": 19,
+    "Meaning": "liquified petroleum gas (LPG)"
+  },
+  {
+    "Code": 123,
+    "ID": 20,
+    "Meaning": "wine"
+  },
+  {
+    "Code": 123,
+    "ID": 21,
+    "Meaning": "cement"
+  },
+  {
+    "Code": 123,
+    "ID": 22,
+    "Meaning": "grain"
+  },
+  {
+    "Code": 125,
+    "ID": 1,
+    "Meaning": "depth known"
+  },
+  {
+    "Code": 125,
+    "ID": 2,
+    "Meaning": "depth unknown"
+  },
+  {
+    "Code": 125,
+    "ID": 3,
+    "Meaning": "doubtful sounding"
+  },
+  {
+    "Code": 125,
+    "ID": 4,
+    "Meaning": "unreliable sounding"
+  },
+  {
+    "Code": 125,
+    "ID": 5,
+    "Meaning": "no bottom found at value shown"
+  },
+  {
+    "Code": 125,
+    "ID": 6,
+    "Meaning": "least depth known"
+  },
+  {
+    "Code": 125,
+    "ID": 7,
+    "Meaning": "least depth unknown, safe clearance at value shown"
+  },
+  {
+    "Code": 125,
+    "ID": 8,
+    "Meaning": "value reported (not surveyed)"
+  },
+  {
+    "Code": 125,
+    "ID": 9,
+    "Meaning": "value reported (not confirmed)"
+  },
+  {
+    "Code": 125,
+    "ID": 10,
+    "Meaning": "maintained depth"
+  },
+  {
+    "Code": 125,
+    "ID": 11,
+    "Meaning": "not reguraly maintained"
+  },
+  {
+    "Code": 131,
+    "ID": 1,
+    "Meaning": "anchoring prohibited"
+  },
+  {
+    "Code": 131,
+    "ID": 2,
+    "Meaning": "anchoring restricted"
+  },
+  {
+    "Code": 131,
+    "ID": 3,
+    "Meaning": "fishing prohibited"
+  },
+  {
+    "Code": 131,
+    "ID": 4,
+    "Meaning": "fishing restricted"
+  },
+  {
+    "Code": 131,
+    "ID": 5,
+    "Meaning": "trawling prohibited"
+  },
+  {
+    "Code": 131,
+    "ID": 6,
+    "Meaning": "trawling restricted"
+  },
+  {
+    "Code": 131,
+    "ID": 7,
+    "Meaning": "entry prohibited"
+  },
+  {
+    "Code": 131,
+    "ID": 8,
+    "Meaning": "entry restricted"
+  },
+  {
+    "Code": 131,
+    "ID": 9,
+    "Meaning": "dredging prohibited"
+  },
+  {
+    "Code": 131,
+    "ID": 10,
+    "Meaning": "dredging restricted"
+  },
+  {
+    "Code": 131,
+    "ID": 11,
+    "Meaning": "diving prohibited"
+  },
+  {
+    "Code": 131,
+    "ID": 12,
+    "Meaning": "diving restricted"
+  },
+  {
+    "Code": 131,
+    "ID": 13,
+    "Meaning": "no wake"
+  },
+  {
+    "Code": 131,
+    "ID": 14,
+    "Meaning": "area to be avoided"
+  },
+  {
+    "Code": 131,
+    "ID": 15,
+    "Meaning": "construction prohibited"
+  },
+  {
+    "Code": 131,
+    "ID": 16,
+    "Meaning": "discharging prohibited"
+  },
+  {
+    "Code": 140,
+    "ID": 1,
+    "Meaning": "automatically"
+  },
+  {
+    "Code": 140,
+    "ID": 2,
+    "Meaning": "by wave action"
+  },
+  {
+    "Code": 140,
+    "ID": 3,
+    "Meaning": "by hand"
+  },
+  {
+    "Code": 140,
+    "ID": 4,
+    "Meaning": "by wind"
+  },
+  {
+    "Code": 149,
+    "ID": 1,
+    "Meaning": "permanent"
+  },
+  {
+    "Code": 149,
+    "ID": 2,
+    "Meaning": "occasional"
+  },
+  {
+    "Code": 149,
+    "ID": 3,
+    "Meaning": "recommended"
+  },
+  {
+    "Code": 149,
+    "ID": 4,
+    "Meaning": "disused"
+  },
+  {
+    "Code": 149,
+    "ID": 5,
+    "Meaning": "periodically/intermittent"
+  },
+  {
+    "Code": 149,
+    "ID": 6,
+    "Meaning": "reserved"
+  },
+  {
+    "Code": 149,
+    "ID": 7,
+    "Meaning": "temporary"
+  },
+  {
+    "Code": 149,
+    "ID": 8,
+    "Meaning": "private"
+  },
+  {
+    "Code": 149,
+    "ID": 9,
+    "Meaning": "mandatory"
+  },
+  {
+    "Code": 149,
+    "ID": 11,
+    "Meaning": "extinguished"
+  },
+  {
+    "Code": 149,
+    "ID": 12,
+    "Meaning": "illuminated"
+  },
+  {
+    "Code": 149,
+    "ID": 13,
+    "Meaning": "historic"
+  },
+  {
+    "Code": 149,
+    "ID": 14,
+    "Meaning": "public"
+  },
+  {
+    "Code": 149,
+    "ID": 15,
+    "Meaning": "synchronized"
+  },
+  {
+    "Code": 149,
+    "ID": 16,
+    "Meaning": "watched"
+  },
+  {
+    "Code": 149,
+    "ID": 17,
+    "Meaning": "un-watched"
+  },
+  {
+    "Code": 149,
+    "ID": 18,
+    "Meaning": "existence doubtful"
+  },
+  {
+    "Code": 153,
+    "ID": 1,
+    "Meaning": "reconnaissance/sketch survey"
+  },
+  {
+    "Code": 153,
+    "ID": 2,
+    "Meaning": "controlled survey"
+  },
+  {
+    "Code": 153,
+    "ID": 4,
+    "Meaning": "examintion survey"
+  },
+  {
+    "Code": 153,
+    "ID": 5,
+    "Meaning": "passage survey"
+  },
+  {
+    "Code": 153,
+    "ID": 6,
+    "Meaning": "remotely sensed"
+  },
+  {
+    "Code": 156,
+    "ID": 1,
+    "Meaning": "found by echo-sounder"
+  },
+  {
+    "Code": 156,
+    "ID": 2,
+    "Meaning": "found by side scan sonar"
+  },
+  {
+    "Code": 156,
+    "ID": 3,
+    "Meaning": "found by multi-beam"
+  },
+  {
+    "Code": 156,
+    "ID": 4,
+    "Meaning": "found by diver"
+  },
+  {
+    "Code": 156,
+    "ID": 5,
+    "Meaning": "found by lead-line"
+  },
+  {
+    "Code": 156,
+    "ID": 6,
+    "Meaning": "swept by wire-drag"
+  },
+  {
+    "Code": 156,
+    "ID": 7,
+    "Meaning": "found by laser"
+  },
+  {
+    "Code": 156,
+    "ID": 8,
+    "Meaning": "swept by vertical acoustic system"
+  },
+  {
+    "Code": 156,
+    "ID": 9,
+    "Meaning": "found by electromagnetic sensor"
+  },
+  {
+    "Code": 156,
+    "ID": 10,
+    "Meaning": "photogrammetry"
+  },
+  {
+    "Code": 156,
+    "ID": 11,
+    "Meaning": "satelite imagery"
+  },
+  {
+    "Code": 156,
+    "ID": 12,
+    "Meaning": "found by levelling"
+  },
+  {
+    "Code": 156,
+    "ID": 13,
+    "Meaning": "swept by side-scan sonar"
+  },
+  {
+    "Code": 156,
+    "ID": 14,
+    "Meaning": "computer generated"
+  },
+  {
+    "Code": 161,
+    "ID": 1,
+    "Meaning": "better than 0.1m and 10 minutes"
+  },
+  {
+    "Code": 161,
+    "ID": 2,
+    "Meaning": "worse than 0.1m or 10 minutes"
+  },
+  {
+    "Code": 163,
+    "ID": 1,
+    "Meaning": "simplified harmonic method of tidal prediction"
+  },
+  {
+    "Code": 163,
+    "ID": 2,
+    "Meaning": "full harmonic method of tidal prediction"
+  },
+  {
+    "Code": 163,
+    "ID": 3,
+    "Meaning": "height and time difference non-harmonic method"
+  },
+  {
+    "Code": 170,
+    "ID": 1,
+    "Meaning": "darkest blue"
+  },
+  {
+    "Code": 170,
+    "ID": 2,
+    "Meaning": "medium blue"
+  },
+  {
+    "Code": 170,
+    "ID": 3,
+    "Meaning": "lightest blue"
+  },
+  {
+    "Code": 171,
+    "ID": 1,
+    "Meaning": "cone, point up"
+  },
+  {
+    "Code": 171,
+    "ID": 2,
+    "Meaning": "cone, point down"
+  },
+  {
+    "Code": 171,
+    "ID": 3,
+    "Meaning": "sphere"
+  },
+  {
+    "Code": 171,
+    "ID": 4,
+    "Meaning": "2 sphere"
+  },
+  {
+    "Code": 171,
+    "ID": 5,
+    "Meaning": "cylinder (can)"
+  },
+  {
+    "Code": 171,
+    "ID": 6,
+    "Meaning": "board"
+  },
+  {
+    "Code": 171,
+    "ID": 7,
+    "Meaning": "x-shape (St. Andrew's cross)"
+  },
+  {
+    "Code": 171,
+    "ID": 8,
+    "Meaning": "upright cross (St. George cross)"
+  },
+  {
+    "Code": 171,
+    "ID": 9,
+    "Meaning": "cube, point up"
+  },
+  {
+    "Code": 171,
+    "ID": 10,
+    "Meaning": "2 cones, point to point"
+  },
+  {
+    "Code": 171,
+    "ID": 11,
+    "Meaning": "2 cones, base to base"
+  },
+  {
+    "Code": 171,
+    "ID": 12,
+    "Meaning": "rhombus (diamond)"
+  },
+  {
+    "Code": 171,
+    "ID": 13,
+    "Meaning": "2 cones (points upward)"
+  },
+  {
+    "Code": 171,
+    "ID": 14,
+    "Meaning": "2 cones (points downward)"
+  },
+  {
+    "Code": 171,
+    "ID": 15,
+    "Meaning": "besom, point up (broom or perch)"
+  },
+  {
+    "Code": 171,
+    "ID": 16,
+    "Meaning": "besom, point down (broom or perch)"
+  },
+  {
+    "Code": 171,
+    "ID": 17,
+    "Meaning": "flag"
+  },
+  {
+    "Code": 171,
+    "ID": 18,
+    "Meaning": "sphere over rhombus"
+  },
+  {
+    "Code": 171,
+    "ID": 19,
+    "Meaning": "square"
+  },
+  {
+    "Code": 171,
+    "ID": 20,
+    "Meaning": "rectangle, horizontal"
+  },
+  {
+    "Code": 171,
+    "ID": 21,
+    "Meaning": "rectangle, vertical"
+  },
+  {
+    "Code": 171,
+    "ID": 22,
+    "Meaning": "trapezium, up"
+  },
+  {
+    "Code": 171,
+    "ID": 23,
+    "Meaning": "trapezium, down"
+  },
+  {
+    "Code": 171,
+    "ID": 24,
+    "Meaning": "triangle, point up"
+  },
+  {
+    "Code": 171,
+    "ID": 25,
+    "Meaning": "triangle, point down"
+  },
+  {
+    "Code": 171,
+    "ID": 26,
+    "Meaning": "circle"
+  },
+  {
+    "Code": 171,
+    "ID": 27,
+    "Meaning": "two upright crosses (one over the other)"
+  },
+  {
+    "Code": 171,
+    "ID": 28,
+    "Meaning": "T-shape"
+  },
+  {
+    "Code": 171,
+    "ID": 29,
+    "Meaning": "triangle pointing up over a circle"
+  },
+  {
+    "Code": 171,
+    "ID": 30,
+    "Meaning": "upright cross over a circle"
+  },
+  {
+    "Code": 171,
+    "ID": 31,
+    "Meaning": "rhombus over a circle"
+  },
+  {
+    "Code": 171,
+    "ID": 32,
+    "Meaning": "circle over a triangle pointing up"
+  },
+  {
+    "Code": 171,
+    "ID": 33,
+    "Meaning": "other shape (see INFORM)"
+  },
+  {
+    "Code": 172,
+    "ID": 1,
+    "Meaning": "inbound"
+  },
+  {
+    "Code": 172,
+    "ID": 2,
+    "Meaning": "outbound"
+  },
+  {
+    "Code": 172,
+    "ID": 3,
+    "Meaning": "one-way"
+  },
+  {
+    "Code": 172,
+    "ID": 4,
+    "Meaning": "two-way"
+  },
+  {
+    "Code": 185,
+    "ID": 1,
+    "Meaning": "Mean low water springs"
+  },
+  {
+    "Code": 185,
+    "ID": 2,
+    "Meaning": "Mean lower low water springs"
+  },
+  {
+    "Code": 185,
+    "ID": 3,
+    "Meaning": "Mean sea level"
+  },
+  {
+    "Code": 185,
+    "ID": 4,
+    "Meaning": "Lowest low water"
+  },
+  {
+    "Code": 185,
+    "ID": 5,
+    "Meaning": "Mean low water"
+  },
+  {
+    "Code": 185,
+    "ID": 6,
+    "Meaning": "Lowest low water springs"
+  },
+  {
+    "Code": 185,
+    "ID": 7,
+    "Meaning": "Approximate mean low water springs"
+  },
+  {
+    "Code": 185,
+    "ID": 8,
+    "Meaning": "Indian spring low water"
+  },
+  {
+    "Code": 185,
+    "ID": 9,
+    "Meaning": "Low water springs"
+  },
+  {
+    "Code": 185,
+    "ID": 10,
+    "Meaning": "Approximate lowest astronomical tide"
+  },
+  {
+    "Code": 185,
+    "ID": 11,
+    "Meaning": "Nearly lowest low water"
+  },
+  {
+    "Code": 185,
+    "ID": 12,
+    "Meaning": "Mean lower low water"
+  },
+  {
+    "Code": 185,
+    "ID": 13,
+    "Meaning": "Low water"
+  },
+  {
+    "Code": 185,
+    "ID": 14,
+    "Meaning": "Approximate mean low water"
+  },
+  {
+    "Code": 185,
+    "ID": 15,
+    "Meaning": "Approximate mean lower low water"
+  },
+  {
+    "Code": 185,
+    "ID": 16,
+    "Meaning": "Mean high water"
+  },
+  {
+    "Code": 185,
+    "ID": 17,
+    "Meaning": "Mean high water springs"
+  },
+  {
+    "Code": 185,
+    "ID": 18,
+    "Meaning": "High water"
+  },
+  {
+    "Code": 185,
+    "ID": 19,
+    "Meaning": "Approximate mean sea level"
+  },
+  {
+    "Code": 185,
+    "ID": 20,
+    "Meaning": "High water springs"
+  },
+  {
+    "Code": 185,
+    "ID": 21,
+    "Meaning": "Mean higher high water"
+  },
+  {
+    "Code": 185,
+    "ID": 22,
+    "Meaning": "Equinoctial spring low water"
+  },
+  {
+    "Code": 185,
+    "ID": 23,
+    "Meaning": "Lowest astronomical tide"
+  },
+  {
+    "Code": 185,
+    "ID": 24,
+    "Meaning": "Local datum"
+  },
+  {
+    "Code": 185,
+    "ID": 25,
+    "Meaning": "International Great Lakes Datum 1985"
+  },
+  {
+    "Code": 185,
+    "ID": 26,
+    "Meaning": "Mean water level"
+  },
+  {
+    "Code": 185,
+    "ID": 27,
+    "Meaning": "Lower low water large tide"
+  },
+  {
+    "Code": 185,
+    "ID": 28,
+    "Meaning": "Higher high water lage tide"
+  },
+  {
+    "Code": 185,
+    "ID": 29,
+    "Meaning": "Nearly highest high water"
+  },
+  {
+    "Code": 187,
+    "ID": 1,
+    "Meaning": "partly submerged at high water"
+  },
+  {
+    "Code": 187,
+    "ID": 2,
+    "Meaning": "always dry"
+  },
+  {
+    "Code": 187,
+    "ID": 3,
+    "Meaning": "always under water/submerged"
+  },
+  {
+    "Code": 187,
+    "ID": 4,
+    "Meaning": "covers and uncovers"
+  },
+  {
+    "Code": 187,
+    "ID": 5,
+    "Meaning": "awash"
+  },
+  {
+    "Code": 187,
+    "ID": 6,
+    "Meaning": "subject to inundation or flooding"
+  },
+  {
+    "Code": 400,
+    "ID": 1,
+    "Meaning": "WGS 72"
+  },
+  {
+    "Code": 400,
+    "ID": 2,
+    "Meaning": "WGS 84"
+  },
+  {
+    "Code": 400,
+    "ID": 3,
+    "Meaning": "European 1950"
+  },
+  {
+    "Code": 400,
+    "ID": 4,
+    "Meaning": "Potsdam Datum"
+  },
+  {
+    "Code": 400,
+    "ID": 5,
+    "Meaning": "Adindan"
+  },
+  {
+    "Code": 400,
+    "ID": 6,
+    "Meaning": "Afgooye"
+  },
+  {
+    "Code": 400,
+    "ID": 7,
+    "Meaning": "Ain el Abd 1970"
+  },
+  {
+    "Code": 400,
+    "ID": 8,
+    "Meaning": "Anna 1 Astro 1965"
+  },
+  {
+    "Code": 400,
+    "ID": 9,
+    "Meaning": "Antigua Island Astro 1943"
+  },
+  {
+    "Code": 400,
+    "ID": 10,
+    "Meaning": "Arc 1950"
+  },
+  {
+    "Code": 400,
+    "ID": 11,
+    "Meaning": "Arc 1960"
+  },
+  {
+    "Code": 400,
+    "ID": 12,
+    "Meaning": "Ascension Island 1958"
+  },
+  {
+    "Code": 400,
+    "ID": 13,
+    "Meaning": "Astro beacon 'E' 1945"
+  },
+  {
+    "Code": 400,
+    "ID": 14,
+    "Meaning": "Astro DOS 71/4"
+  },
+  {
+    "Code": 400,
+    "ID": 15,
+    "Meaning": "Astro Tern Island (FRIG) 1961"
+  },
+  {
+    "Code": 400,
+    "ID": 16,
+    "Meaning": "Astronimical Station 1952"
+  },
+  {
+    "Code": 400,
+    "ID": 17,
+    "Meaning": "Australian Geodetic 1966"
+  },
+  {
+    "Code": 400,
+    "ID": 18,
+    "Meaning": "Australian Geodetic 1984"
+  },
+  {
+    "Code": 400,
+    "ID": 19,
+    "Meaning": "Ayabelle Lighthouse"
+  },
+  {
+    "Code": 400,
+    "ID": 20,
+    "Meaning": "Bellevue (IGN)"
+  },
+  {
+    "Code": 400,
+    "ID": 21,
+    "Meaning": "Bermuda 1957"
+  },
+  {
+    "Code": 400,
+    "ID": 22,
+    "Meaning": "Bissau"
+  },
+  {
+    "Code": 400,
+    "ID": 23,
+    "Meaning": "Bogota Observatory"
+  },
+  {
+    "Code": 400,
+    "ID": 24,
+    "Meaning": "Bukit Rimpah"
+  },
+  {
+    "Code": 400,
+    "ID": 25,
+    "Meaning": "Camp Area Astro"
+  },
+  {
+    "Code": 400,
+    "ID": 26,
+    "Meaning": "Campo Inchauspe 1969"
+  },
+  {
+    "Code": 400,
+    "ID": 27,
+    "Meaning": "Canton Astro 1966"
+  },
+  {
+    "Code": 400,
+    "ID": 28,
+    "Meaning": "Cape"
+  },
+  {
+    "Code": 400,
+    "ID": 29,
+    "Meaning": "Cape Canaveral"
+  },
+  {
+    "Code": 400,
+    "ID": 30,
+    "Meaning": "Carthage"
+  },
+  {
+    "Code": 400,
+    "ID": 31,
+    "Meaning": "Chatam Island Astro 1971"
+  },
+  {
+    "Code": 400,
+    "ID": 32,
+    "Meaning": "Chua Astro"
+  },
+  {
+    "Code": 400,
+    "ID": 33,
+    "Meaning": "Corrego Alegre"
+  },
+  {
+    "Code": 400,
+    "ID": 34,
+    "Meaning": "Dabola"
+  },
+  {
+    "Code": 400,
+    "ID": 35,
+    "Meaning": "Djakarta (Batavia)"
+  },
+  {
+    "Code": 400,
+    "ID": 36,
+    "Meaning": "DOS 1968"
+  },
+  {
+    "Code": 400,
+    "ID": 37,
+    "Meaning": "Easter Island 1967"
+  },
+  {
+    "Code": 400,
+    "ID": 38,
+    "Meaning": "European 1979"
+  },
+  {
+    "Code": 400,
+    "ID": 39,
+    "Meaning": "Fort Thomas 1955"
+  },
+  {
+    "Code": 400,
+    "ID": 40,
+    "Meaning": "Gan 1970"
+  },
+  {
+    "Code": 400,
+    "ID": 41,
+    "Meaning": "Geodetic Datum 1949"
+  },
+  {
+    "Code": 400,
+    "ID": 42,
+    "Meaning": "Graciosa Base SW 1948"
+  },
+  {
+    "Code": 400,
+    "ID": 43,
+    "Meaning": "Guam 1963"
+  },
+  {
+    "Code": 400,
+    "ID": 44,
+    "Meaning": "Ganung Segara"
+  },
+  {
+    "Code": 400,
+    "ID": 45,
+    "Meaning": "GUX 1 Astro"
+  },
+  {
+    "Code": 400,
+    "ID": 46,
+    "Meaning": "Herat North"
+  },
+  {
+    "Code": 400,
+    "ID": 47,
+    "Meaning": "Hjorsey 1955"
+  },
+  {
+    "Code": 400,
+    "ID": 48,
+    "Meaning": "Hong Kong 1963"
+  },
+  {
+    "Code": 400,
+    "ID": 49,
+    "Meaning": "Hu-Tzu-Shan"
+  },
+  {
+    "Code": 400,
+    "ID": 50,
+    "Meaning": "Indian"
+  },
+  {
+    "Code": 400,
+    "ID": 51,
+    "Meaning": "Indian 1954"
+  },
+  {
+    "Code": 400,
+    "ID": 52,
+    "Meaning": "Indian 1975"
+  },
+  {
+    "Code": 400,
+    "ID": 53,
+    "Meaning": "Ireland 1965"
+  },
+  {
+    "Code": 400,
+    "ID": 54,
+    "Meaning": "ISTS 061 Astro 1968"
+  },
+  {
+    "Code": 400,
+    "ID": 55,
+    "Meaning": "ISTS 073 Astro 1969"
+  },
+  {
+    "Code": 400,
+    "ID": 56,
+    "Meaning": "Johnston Island 1961"
+  },
+  {
+    "Code": 400,
+    "ID": 57,
+    "Meaning": "Kandawala"
+  },
+  {
+    "Code": 400,
+    "ID": 58,
+    "Meaning": "Kerguelen Island 1949"
+  },
+  {
+    "Code": 400,
+    "ID": 59,
+    "Meaning": "Kertau 1948"
+  },
+  {
+    "Code": 400,
+    "ID": 60,
+    "Meaning": "Kusaie Astro 1951"
+  },
+  {
+    "Code": 400,
+    "ID": 61,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 62,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 63,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 64,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 65,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 66,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 67,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 68,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 69,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 70,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 71,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 72,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 73,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 74,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 75,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 76,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 77,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 78,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 79,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 80,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 81,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 82,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 83,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 84,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 85,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 86,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 87,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 88,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 89,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 90,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 91,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 92,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 93,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 94,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 95,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 96,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 97,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 98,
+    "Meaning": ""
+  },
+  {
+    "Code": 400,
+    "ID": 99,
+    "Meaning": "South Asia"
+  },
+  {
+    "Code": 400,
+    "ID": 100,
+    "Meaning": "Tananarive Observatory 1925"
+  },
+  {
+    "Code": 402,
+    "ID": 1,
+    "Meaning": "surveyed"
+  },
+  {
+    "Code": 402,
+    "ID": 2,
+    "Meaning": "unsurveyed"
+  },
+  {
+    "Code": 402,
+    "ID": 3,
+    "Meaning": "inadequately surveyed"
+  },
+  {
+    "Code": 402,
+    "ID": 4,
+    "Meaning": "approximated"
+  },
+  {
+    "Code": 402,
+    "ID": 5,
+    "Meaning": "position doubtful"
+  },
+  {
+    "Code": 402,
+    "ID": 6,
+    "Meaning": "unreliable"
+  },
+  {
+    "Code": 402,
+    "ID": 7,
+    "Meaning": "reported (not surveyed)"
+  },
+  {
+    "Code": 402,
+    "ID": 8,
+    "Meaning": "reported (not confirmed)"
+  },
+  {
+    "Code": 402,
+    "ID": 9,
+    "Meaning": "estimated"
+  },
+  {
+    "Code": 402,
+    "ID": 10,
+    "Meaning": "precisely known"
+  },
+  {
+    "Code": 402,
+    "ID": 11,
+    "Meaning": "calculated"
+  },
+  {
+    "Code": 17000,
+    "ID": 1,
+    "Meaning": "unrestricted anchorage"
+  },
+  {
+    "Code": 17000,
+    "ID": 2,
+    "Meaning": "deep water anchorage"
+  },
+  {
+    "Code": 17000,
+    "ID": 3,
+    "Meaning": "tanker anchorage"
+  },
+  {
+    "Code": 17000,
+    "ID": 4,
+    "Meaning": "explosives anchorage"
+  },
+  {
+    "Code": 17000,
+    "ID": 5,
+    "Meaning": "quarantine anchorage"
+  },
+  {
+    "Code": 17000,
+    "ID": 6,
+    "Meaning": "sea-plane anchorage"
+  },
+  {
+    "Code": 17000,
+    "ID": 7,
+    "Meaning": "small craft anchorage"
+  },
+  {
+    "Code": 17000,
+    "ID": 9,
+    "Meaning": "anchorage for periods up to 24 hours"
+  },
+  {
+    "Code": 17000,
+    "ID": 10,
+    "Meaning": "anchorage for pushing-navigation vessels"
+  },
+  {
+    "Code": 17000,
+    "ID": 11,
+    "Meaning": "anchorage for other vessels than pushing-navigation vessels"
+  },
+  {
+    "Code": 17002,
+    "ID": 2,
+    "Meaning": "port entry and departure"
+  },
+  {
+    "Code": 17002,
+    "ID": 6,
+    "Meaning": "lock"
+  },
+  {
+    "Code": 17002,
+    "ID": 8,
+    "Meaning": "bridge passage"
+  },
+  {
+    "Code": 17002,
+    "ID": 10,
+    "Meaning": "oncomig traffic indication"
+  },
+  {
+    "Code": 17003,
+    "ID": 15,
+    "Meaning": "high water mark"
+  },
+  {
+    "Code": 17003,
+    "ID": 16,
+    "Meaning": "vertical clearance indication"
+  },
+  {
+    "Code": 17003,
+    "ID": 18,
+    "Meaning": "depth indication"
+  },
+  {
+    "Code": 17004,
+    "ID": 1,
+    "Meaning": "anchoring prohibited"
+  },
+  {
+    "Code": 17004,
+    "ID": 2,
+    "Meaning": "anchoring restricted"
+  },
+  {
+    "Code": 17004,
+    "ID": 7,
+    "Meaning": "entry prohibited"
+  },
+  {
+    "Code": 17004,
+    "ID": 8,
+    "Meaning": "entry restricted"
+  },
+  {
+    "Code": 17004,
+    "ID": 13,
+    "Meaning": "no wake"
+  },
+  {
+    "Code": 17004,
+    "ID": 14,
+    "Meaning": "area to be avoided"
+  },
+  {
+    "Code": 17004,
+    "ID": 27,
+    "Meaning": "speed restricted"
+  },
+  {
+    "Code": 17004,
+    "ID": 28,
+    "Meaning": "overtaking prohibited"
+  },
+  {
+    "Code": 17004,
+    "ID": 29,
+    "Meaning": "overtaking of convoys by convoys prohibited"
+  },
+  {
+    "Code": 17004,
+    "ID": 30,
+    "Meaning": "passing or overtaking prohibited"
+  },
+  {
+    "Code": 17004,
+    "ID": 31,
+    "Meaning": "berthing prohibited"
+  },
+  {
+    "Code": 17004,
+    "ID": 32,
+    "Meaning": "berthing restricted"
+  },
+  {
+    "Code": 17004,
+    "ID": 33,
+    "Meaning": "making fast prohibited"
+  },
+  {
+    "Code": 17004,
+    "ID": 34,
+    "Meaning": "making fast restricted"
+  },
+  {
+    "Code": 17004,
+    "ID": 35,
+    "Meaning": "turning prohibited"
+  },
+  {
+    "Code": 17004,
+    "ID": 36,
+    "Meaning": "restricted fairway depth"
+  },
+  {
+    "Code": 17005,
+    "ID": 12,
+    "Meaning": "Mean lower low water"
+  },
+  {
+    "Code": 17005,
+    "ID": 31,
+    "Meaning": "Local low water reference level"
+  },
+  {
+    "Code": 17005,
+    "ID": 32,
+    "Meaning": "Local high water reference level"
+  },
+  {
+    "Code": 17005,
+    "ID": 33,
+    "Meaning": "Local mean water reference level"
+  },
+  {
+    "Code": 17005,
+    "ID": 34,
+    "Meaning": "Equivalent height of water (German GlW)"
+  },
+  {
+    "Code": 17005,
+    "ID": 35,
+    "Meaning": "Highest Shipping Height of Water (German HSW)"
+  },
+  {
+    "Code": 17005,
+    "ID": 36,
+    "Meaning": "Reference low water level according to Danube Commission"
+  },
+  {
+    "Code": 17005,
+    "ID": 37,
+    "Meaning": "Highest shipping height of water according to Danube Commission"
+  },
+  {
+    "Code": 17005,
+    "ID": 38,
+    "Meaning": "Dutch river low water reference level (OLR)"
+  },
+  {
+    "Code": 17005,
+    "ID": 39,
+    "Meaning": "Russian project water level"
+  },
+  {
+    "Code": 17005,
+    "ID": 40,
+    "Meaning": "Russian normal backwater level"
+  },
+  {
+    "Code": 17005,
+    "ID": 41,
+    "Meaning": "Ohio River Datum"
+  },
+  {
+    "Code": 17007,
+    "ID": 4,
+    "Meaning": "swinging wire ferry"
+  },
+  {
+    "Code": 17008,
+    "ID": 1,
+    "Meaning": "RoRo-terminal"
+  },
+  {
+    "Code": 17008,
+    "ID": 3,
+    "Meaning": "ferry terminal"
+  },
+  {
+    "Code": 17008,
+    "ID": 4,
+    "Meaning": "fishing harbour"
+  },
+  {
+    "Code": 17008,
+    "ID": 6,
+    "Meaning": "naval base"
+  },
+  {
+    "Code": 17008,
+    "ID": 7,
+    "Meaning": "tanker terminal"
+  },
+  {
+    "Code": 17008,
+    "ID": 8,
+    "Meaning": "passenger terminal"
+  },
+  {
+    "Code": 17008,
+    "ID": 9,
+    "Meaning": "shipyard"
+  },
+  {
+    "Code": 17008,
+    "ID": 10,
+    "Meaning": "container terminal"
+  },
+  {
+    "Code": 17008,
+    "ID": 11,
+    "Meaning": "bulk terminal"
+  },
+  {
+    "Code": 17008,
+    "ID": 12,
+    "Meaning": "syncrolift"
+  },
+  {
+    "Code": 17008,
+    "ID": 13,
+    "Meaning": "straddle carrier"
+  },
+  {
+    "Code": 17008,
+    "ID": 16,
+    "Meaning": "service and repair"
+  },
+  {
+    "Code": 17008,
+    "ID": 17,
+    "Meaning": "quarantine station"
+  },
+  {
+    "Code": 17009,
+    "ID": 1,
+    "Meaning": "IALA A"
+  },
+  {
+    "Code": 17009,
+    "ID": 2,
+    "Meaning": "IALA B"
+  },
+  {
+    "Code": 17009,
+    "ID": 9,
+    "Meaning": "no system"
+  },
+  {
+    "Code": 17009,
+    "ID": 10,
+    "Meaning": "other sytem"
+  },
+  {
+    "Code": 17009,
+    "ID": 11,
+    "Meaning": "CEVNI"
+  },
+  {
+    "Code": 17009,
+    "ID": 12,
+    "Meaning": "Russian inland waterway regulations"
+  },
+  {
+    "Code": 17010,
+    "ID": 1,
+    "Meaning": "custom"
+  },
+  {
+    "Code": 17010,
+    "ID": 2,
+    "Meaning": "border"
+  },
+  {
+    "Code": 17011,
+    "ID": 1,
+    "Meaning": "port-hand lateral mark"
+  },
+  {
+    "Code": 17011,
+    "ID": 2,
+    "Meaning": "starboard-hand lateral mark"
+  },
+  {
+    "Code": 17011,
+    "ID": 3,
+    "Meaning": "preferred channel to starboard lateral mark"
+  },
+  {
+    "Code": 17011,
+    "ID": 4,
+    "Meaning": "preferred channel to port lateral mark"
+  },
+  {
+    "Code": 17011,
+    "ID": 5,
+    "Meaning": "right-hand side of the waterway"
+  },
+  {
+    "Code": 17011,
+    "ID": 6,
+    "Meaning": "left-hand side of the waterway"
+  },
+  {
+    "Code": 17011,
+    "ID": 7,
+    "Meaning": "right-hand side of the channel"
+  },
+  {
+    "Code": 17011,
+    "ID": 8,
+    "Meaning": "left-hand side of the channel"
+  },
+  {
+    "Code": 17011,
+    "ID": 9,
+    "Meaning": "bifurcation of the waterway"
+  },
+  {
+    "Code": 17011,
+    "ID": 10,
+    "Meaning": "bifurcation of the channel"
+  },
+  {
+    "Code": 17011,
+    "ID": 11,
+    "Meaning": "channel near the right bank"
+  },
+  {
+    "Code": 17011,
+    "ID": 12,
+    "Meaning": "channel near the left bank"
+  },
+  {
+    "Code": 17011,
+    "ID": 13,
+    "Meaning": "channel cross-over to the right bank"
+  },
+  {
+    "Code": 17011,
+    "ID": 14,
+    "Meaning": "channel cross-over to the left bank"
+  },
+  {
+    "Code": 17011,
+    "ID": 15,
+    "Meaning": "danger point or obstacles at the right-hand side"
+  },
+  {
+    "Code": 17011,
+    "ID": 16,
+    "Meaning": "obstruction at the left-hand side"
+  },
+  {
+    "Code": 17011,
+    "ID": 17,
+    "Meaning": "turn off at the right-hand side"
+  },
+  {
+    "Code": 17011,
+    "ID": 18,
+    "Meaning": "turn off at the left-hand side"
+  },
+  {
+    "Code": 17011,
+    "ID": 19,
+    "Meaning": "junction at the right-hand side"
+  },
+  {
+    "Code": 17011,
+    "ID": 20,
+    "Meaning": "junction at the left-hand side"
+  },
+  {
+    "Code": 17011,
+    "ID": 21,
+    "Meaning": "harbour entry at the right-hand side"
+  },
+  {
+    "Code": 17011,
+    "ID": 22,
+    "Meaning": "harbour entry at the left-hand side"
+  },
+  {
+    "Code": 17011,
+    "ID": 23,
+    "Meaning": "bridge pier mark"
+  },
+  {
+    "Code": 17012,
+    "ID": 7,
+    "Meaning": "training wall"
+  },
+  {
+    "Code": 17012,
+    "ID": 18,
+    "Meaning": "lock/guide wall"
+  },
+  {
+    "Code": 17050,
+    "ID": 1,
+    "Meaning": "top (board)"
+  },
+  {
+    "Code": 17050,
+    "ID": 2,
+    "Meaning": "bottom (board)"
+  },
+  {
+    "Code": 17050,
+    "ID": 3,
+    "Meaning": "right (triangle to the right)"
+  },
+  {
+    "Code": 17050,
+    "ID": 4,
+    "Meaning": "left (triangle to the left)"
+  },
+  {
+    "Code": 17050,
+    "ID": 5,
+    "Meaning": "bottom (triangle to the bottom)"
+  },
+  {
+    "Code": 17052,
+    "ID": 1,
+    "Meaning": "(A.1) no entry"
+  },
+  {
+    "Code": 17052,
+    "ID": 2,
+    "Meaning": "(A.1a) closed area, but small craft boats without engine permitted (only RheinSchPV and Binnenvaatpolitiereglement)"
+  },
+  {
+    "Code": 17052,
+    "ID": 3,
+    "Meaning": "(A.2) no overtaking"
+  },
+  {
+    "Code": 17052,
+    "ID": 4,
+    "Meaning": "(A.3) no overtaking of convoys by convoys"
+  },
+  {
+    "Code": 17052,
+    "ID": 5,
+    "Meaning": "(A.4) no passing or overtaking"
+  },
+  {
+    "Code": 17052,
+    "ID": 6,
+    "Meaning": "(A.5) no berthing (i.e. no anchoring or making fast to the bank)"
+  },
+  {
+    "Code": 17052,
+    "ID": 7,
+    "Meaning": "(A.5.1) no berthing within the breadth indicated in meters(measured from the sign)"
+  },
+  {
+    "Code": 17052,
+    "ID": 8,
+    "Meaning": "(A.6) no anchoring or trailing of anchors, cables or chains"
+  },
+  {
+    "Code": 17052,
+    "ID": 9,
+    "Meaning": "(A.7) no making fast to the bank"
+  },
+  {
+    "Code": 17052,
+    "ID": 10,
+    "Meaning": "(A.8) no turning"
+  },
+  {
+    "Code": 17052,
+    "ID": 11,
+    "Meaning": "(A.9) Do not create wash"
+  },
+  {
+    "Code": 17052,
+    "ID": 12,
+    "Meaning": "(A.10) no passing on left side (in openings of bridges or weirs)"
+  },
+  {
+    "Code": 17052,
+    "ID": 13,
+    "Meaning": "(A.10) no passing on right side (in openings of bridges or weirs)"
+  },
+  {
+    "Code": 17052,
+    "ID": 14,
+    "Meaning": "(A.12) motorized craft prohibited"
+  },
+  {
+    "Code": 17052,
+    "ID": 15,
+    "Meaning": "(A.13) all sports and pleasure craft prohibited"
+  },
+  {
+    "Code": 17052,
+    "ID": 16,
+    "Meaning": "(A.14) water skiing prohibited"
+  },
+  {
+    "Code": 17052,
+    "ID": 17,
+    "Meaning": "(A.15) sailing vessels prohibited"
+  },
+  {
+    "Code": 17052,
+    "ID": 18,
+    "Meaning": "(A.16) all craft other than motorized vessels or sailing craft prohibited"
+  },
+  {
+    "Code": 17052,
+    "ID": 19,
+    "Meaning": "(A.17) use of sailboards prohibited"
+  },
+  {
+    "Code": 17052,
+    "ID": 20,
+    "Meaning": "(A.20) water bikes prohibited"
+  },
+  {
+    "Code": 17052,
+    "ID": 21,
+    "Meaning": "(A.18) end of zone authorized for high speed navigation of small sport and pleasure craft prohibited"
+  },
+  {
+    "Code": 17052,
+    "ID": 22,
+    "Meaning": "(A.19) no launching or beaching of vessels"
+  },
+  {
+    "Code": 17052,
+    "ID": 23,
+    "Meaning": "(B.1) proceed in left direction"
+  },
+  {
+    "Code": 17052,
+    "ID": 24,
+    "Meaning": "(B.1) proceed in right direction"
+  },
+  {
+    "Code": 17052,
+    "ID": 25,
+    "Meaning": "(B.2a) move to the side of the channel on your port side"
+  },
+  {
+    "Code": 17052,
+    "ID": 26,
+    "Meaning": "(B.2b) move to the side of the channel on your starboard side"
+  },
+  {
+    "Code": 17052,
+    "ID": 27,
+    "Meaning": "(B.3a) keep on the side of the channel on your portside"
+  },
+  {
+    "Code": 17052,
+    "ID": 28,
+    "Meaning": "(B.3b) keep on the side of the channel on your starboard side"
+  },
+  {
+    "Code": 17052,
+    "ID": 29,
+    "Meaning": "(B.4a) cross channel to port"
+  },
+  {
+    "Code": 17052,
+    "ID": 30,
+    "Meaning": "(B.4b) cross channel to starboard"
+  },
+  {
+    "Code": 17052,
+    "ID": 31,
+    "Meaning": "(B.5) stop as prescribed in the regulations"
+  },
+  {
+    "Code": 17052,
+    "ID": 32,
+    "Meaning": "(B.6) do not exceed the speed indicated (in km/h)"
+  },
+  {
+    "Code": 17052,
+    "ID": 33,
+    "Meaning": "(B.7) give a sound signal"
+  },
+  {
+    "Code": 17052,
+    "ID": 34,
+    "Meaning": "(B.8) keep a particulary sharp lookout"
+  },
+  {
+    "Code": 17052,
+    "ID": 35,
+    "Meaning": "(B.9a) do not enter the main waterway until certain that this will not oblige vessels proceeding on it to change their course or speed"
+  },
+  {
+    "Code": 17052,
+    "ID": 36,
+    "Meaning": "(B.9b) do not cross the main waterway until certain that this will not oblige vessels proceeding on it to change their course or speed"
+  },
+  {
+    "Code": 17052,
+    "ID": 37,
+    "Meaning": "(B.11) obligation to enter into a radiotelephone link on the channel as indicated on the board"
+  },
+  {
+    "Code": 17052,
+    "ID": 38,
+    "Meaning": "(C.1) depth of water limited"
+  },
+  {
+    "Code": 17052,
+    "ID": 39,
+    "Meaning": "(C.2) headroom limited"
+  },
+  {
+    "Code": 17052,
+    "ID": 40,
+    "Meaning": "(C.3) width of passage or channel limited"
+  },
+  {
+    "Code": 17052,
+    "ID": 41,
+    "Meaning": "(C.4) there are restrictions on navigation: make inquiries (with additional sign at bottom of main sign)"
+  },
+  {
+    "Code": 17052,
+    "ID": 42,
+    "Meaning": "(C.5) the channel lies at a distance from the left bank"
+  },
+  {
+    "Code": 17052,
+    "ID": 43,
+    "Meaning": "(C.5) the channel lies at a distance from the right bank"
+  },
+  {
+    "Code": 17052,
+    "ID": 44,
+    "Meaning": "(D.1a) recommended channel in both directions"
+  },
+  {
+    "Code": 17052,
+    "ID": 45,
+    "Meaning": "(D.1b) recommended channel only in the direction indicated, passage in the opposite direction prohibited (at bridges)"
+  },
+  {
+    "Code": 17052,
+    "ID": 46,
+    "Meaning": "(D.2) you are recommended to keep on right side (in openings of bridges and weirs)"
+  },
+  {
+    "Code": 17052,
+    "ID": 47,
+    "Meaning": "(D.2) you are recommended to keep on left side (in openings of bridges and weirs)"
+  },
+  {
+    "Code": 17052,
+    "ID": 48,
+    "Meaning": "(D.3) you are recommended to proceed in the left direction"
+  },
+  {
+    "Code": 17052,
+    "ID": 49,
+    "Meaning": "(D.3) you are recommended to proceed in the right direction"
+  },
+  {
+    "Code": 17052,
+    "ID": 50,
+    "Meaning": "(E.1) entry permitted (general sign)"
+  },
+  {
+    "Code": 17052,
+    "ID": 51,
+    "Meaning": "(E.2) overhead cable crossing"
+  },
+  {
+    "Code": 17052,
+    "ID": 52,
+    "Meaning": "(E.3) weir"
+  },
+  {
+    "Code": 17052,
+    "ID": 53,
+    "Meaning": "(E.4a) ferry-boat not moving independently"
+  },
+  {
+    "Code": 17052,
+    "ID": 54,
+    "Meaning": "(E.4b) ferry-boat moving independently"
+  },
+  {
+    "Code": 17052,
+    "ID": 55,
+    "Meaning": "(E.5) berthing (i.e. no anchoring or making fast to the bank) permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 56,
+    "Meaning": "(E.5.1) berthing permitted on the stretch of water of the breadth measured from, and shown on the board in meters"
+  },
+  {
+    "Code": 17052,
+    "ID": 57,
+    "Meaning": "(E.5.2) berthing permitted on the stretch of water bounded by the distances measured from, and shown on the board in meters"
+  },
+  {
+    "Code": 17052,
+    "ID": 58,
+    "Meaning": "(E.5.3) maximum number of vessels permitted to berth abreast"
+  },
+  {
+    "Code": 17052,
+    "ID": 59,
+    "Meaning": "(E.5.4) berthing area reserved for pushing-navigation vessels that are not required to carry blue lights or blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 60,
+    "Meaning": "(E.5.5) berthing area reserved for pushing-navigation vessels that are required to carry one blue light or one blue cone"
+  },
+  {
+    "Code": 17052,
+    "ID": 61,
+    "Meaning": "(E.5.6) berthing area reserved for pushing-navigation vessels that are required to carry two blue lights or two blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 62,
+    "Meaning": "(E.5.7) berthing area reserved for pushing-navigation vessels that are required to carry three blue lights or three blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 63,
+    "Meaning": "(E.5.8) berthing area reserved for vessels other than pushing-navigation vessels that are not required to carry blue lights or blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 64,
+    "Meaning": "(E.5.9) berthing area reserved for vessels other than for pushing-navigation vessels that are required to carry one blue light or one blue cone"
+  },
+  {
+    "Code": 17052,
+    "ID": 65,
+    "Meaning": "(E.5.10) berthing area reserved for vessels other than for pushing-navigation vessels that are required to carry two blue lights or two blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 66,
+    "Meaning": "(E.5.11) berthing area reserved for vessels other than for pushing-navigation vessels that are required to carry three blue lights or three blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 67,
+    "Meaning": "(E.5.12) berthing area reserved for all vessels that are not required to carry blue lights or blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 68,
+    "Meaning": "(E.5.13) berthing area reserved for all vessels that are required to carry one blue light or one blue cone"
+  },
+  {
+    "Code": 17052,
+    "ID": 69,
+    "Meaning": "(E.5.14) berthing area reserved for all vessels that are required to carry two blue lights or two blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 70,
+    "Meaning": "(E.5.15) berthing area reserved for all vessels that are required to carry three blue lights or three blue cones"
+  },
+  {
+    "Code": 17052,
+    "ID": 71,
+    "Meaning": "(E.6) anchoring or trailing of anchors, cables or chains permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 72,
+    "Meaning": "(E.7) making fast to the bank permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 73,
+    "Meaning": "(E.7.1) berthing area reserved for loading and unloading of vehicles"
+  },
+  {
+    "Code": 17052,
+    "ID": 74,
+    "Meaning": "(E.8) turning area"
+  },
+  {
+    "Code": 17052,
+    "ID": 75,
+    "Meaning": "(E.9a) crossing with secondary waterway ahead"
+  },
+  {
+    "Code": 17052,
+    "ID": 76,
+    "Meaning": "(E.9b) secondary waterway ahead on the right"
+  },
+  {
+    "Code": 17052,
+    "ID": 77,
+    "Meaning": "(E.9c) secondary waterway ahead on the left"
+  },
+  {
+    "Code": 17052,
+    "ID": 78,
+    "Meaning": "(E.9d) secondary waterway ahead, main waterway on the right"
+  },
+  {
+    "Code": 17052,
+    "ID": 79,
+    "Meaning": "(E.9e) secondary waterway ahead, main waterwar on the left"
+  },
+  {
+    "Code": 17052,
+    "ID": 80,
+    "Meaning": "(E.9f) secondary waterway on the left, main waterway on the right"
+  },
+  {
+    "Code": 17052,
+    "ID": 81,
+    "Meaning": "(E.9g) secondary waterway on the right, main waterway on the left"
+  },
+  {
+    "Code": 17052,
+    "ID": 82,
+    "Meaning": "(E.9h) secondary waterway ahead and on the left, main waterway on the right"
+  },
+  {
+    "Code": 17052,
+    "ID": 83,
+    "Meaning": "(E.9i) secondary waterway ahead and on the right, main waterway on the left"
+  },
+  {
+    "Code": 17052,
+    "ID": 84,
+    "Meaning": "(E.10a) crossing with main waterway ahead"
+  },
+  {
+    "Code": 17052,
+    "ID": 85,
+    "Meaning": "(E.10b) main waterway ahead"
+  },
+  {
+    "Code": 17052,
+    "ID": 86,
+    "Meaning": "(E.10c) junction with main waterway ahead and right"
+  },
+  {
+    "Code": 17052,
+    "ID": 87,
+    "Meaning": "(E.10d) junction with main waterway ahead and left"
+  },
+  {
+    "Code": 17052,
+    "ID": 88,
+    "Meaning": "(E.10e) junction with main waterway ahead and right, secondary waterway on the left"
+  },
+  {
+    "Code": 17052,
+    "ID": 89,
+    "Meaning": "(E.10f) junction with main waterway ahead and left, secondary waterway on the right"
+  },
+  {
+    "Code": 17052,
+    "ID": 90,
+    "Meaning": "(E.11) end of prohibition or obligation applying to traffic in one direction only, or end of a restriction"
+  },
+  {
+    "Code": 17052,
+    "ID": 91,
+    "Meaning": "(E.13) drinking water supply"
+  },
+  {
+    "Code": 17052,
+    "ID": 92,
+    "Meaning": "(E.14) telephone"
+  },
+  {
+    "Code": 17052,
+    "ID": 93,
+    "Meaning": "(E.15) motorized vessels  permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 94,
+    "Meaning": "(E.16) sport and pleasure craft permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 95,
+    "Meaning": "(E.17) water skiing permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 96,
+    "Meaning": "(E.18) sailing vessels permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 97,
+    "Meaning": "(E.19) craft other than motorized vessels or sailing craft permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 98,
+    "Meaning": "(E.20) use of sailboards permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 99,
+    "Meaning": "(E.23) possibility of obtaining nautical information by radiotelephone on the channel indicated"
+  },
+  {
+    "Code": 17052,
+    "ID": 100,
+    "Meaning": "(E.24) water bikes permitted"
+  },
+  {
+    "Code": 17052,
+    "ID": 101,
+    "Meaning": "(E.21) zone authorized for high speed navigation of small sport and pleasure"
+  },
+  {
+    "Code": 17052,
+    "ID": 102,
+    "Meaning": "(E.22) launching or beaching of vessels permitted"
+  },
+  {
+    "Code": 17055,
+    "ID": 1,
+    "Meaning": "one blue light / cone"
+  },
+  {
+    "Code": 17055,
+    "ID": 2,
+    "Meaning": "two blue lights / cones"
+  },
+  {
+    "Code": 17055,
+    "ID": 3,
+    "Meaning": "three blue lights / cones"
+  },
+  {
+    "Code": 17055,
+    "ID": 4,
+    "Meaning": "no blue light / cone"
+  },
+  {
+    "Code": 17056,
+    "ID": 1,
+    "Meaning": "upstream"
+  },
+  {
+    "Code": 17056,
+    "ID": 2,
+    "Meaning": "downstream"
+  },
+  {
+    "Code": 17056,
+    "ID": 3,
+    "Meaning": "to the left bank"
+  },
+  {
+    "Code": 17056,
+    "ID": 4,
+    "Meaning": "to the right bank"
+  },
+  {
+    "Code": 17063,
+    "ID": 1,
+    "Meaning": "prohibition mark"
+  },
+  {
+    "Code": 17063,
+    "ID": 2,
+    "Meaning": "regulation mark"
+  },
+  {
+    "Code": 17063,
+    "ID": 3,
+    "Meaning": "restriction mark"
+  },
+  {
+    "Code": 17063,
+    "ID": 4,
+    "Meaning": "recommendation mark"
+  },
+  {
+    "Code": 17063,
+    "ID": 5,
+    "Meaning": "information mark"
+  },
+  {
+    "Code": 17065,
+    "ID": 1,
+    "Meaning": "bunker vessel available"
+  },
+  {
+    "Code": 17065,
+    "ID": 2,
+    "Meaning": "no bunker vessel available"
+  },
+  {
+    "Code": 17066,
+    "ID": 1,
+    "Meaning": "loading"
+  },
+  {
+    "Code": 17066,
+    "ID": 2,
+    "Meaning": "unloading"
+  },
+  {
+    "Code": 17066,
+    "ID": 3,
+    "Meaning": "overnight accommodation"
+  },
+  {
+    "Code": 17066,
+    "ID": 4,
+    "Meaning": "berth for pushing-navigation vessels"
+  },
+  {
+    "Code": 17066,
+    "ID": 5,
+    "Meaning": "berth for other vessels than pushing-navigation vessels"
+  },
+  {
+    "Code": 17066,
+    "ID": 6,
+    "Meaning": "fleeting area"
+  },
+  {
+    "Code": 17066,
+    "ID": 7,
+    "Meaning": "first class landing"
+  },
+  {
+    "Code": 17066,
+    "ID": 8,
+    "Meaning": "second class landing"
+  },
+  {
+    "Code": 17067,
+    "ID": 1,
+    "Meaning": "diesel oil"
+  },
+  {
+    "Code": 17067,
+    "ID": 2,
+    "Meaning": "water"
+  },
+  {
+    "Code": 17067,
+    "ID": 3,
+    "Meaning": "ballast"
+  },
+  {
+    "Code": 17068,
+    "ID": 1,
+    "Meaning": "0 small vessels and pleasure craft"
+  },
+  {
+    "Code": 17068,
+    "ID": 2,
+    "Meaning": "I peniche"
+  },
+  {
+    "Code": 17068,
+    "ID": 3,
+    "Meaning": "II campine barge"
+  },
+  {
+    "Code": 17068,
+    "ID": 4,
+    "Meaning": "III Dortmund-Ems barge"
+  },
+  {
+    "Code": 17068,
+    "ID": 5,
+    "Meaning": "IV Rhine-Herne barge"
+  },
+  {
+    "Code": 17068,
+    "ID": 6,
+    "Meaning": "Va Large Rhine barge; 1-barge push-tow unit"
+  },
+  {
+    "Code": 17068,
+    "ID": 7,
+    "Meaning": "Vb 2-barge push-tow unit; long formation"
+  },
+  {
+    "Code": 17068,
+    "ID": 8,
+    "Meaning": "VIa 2-barge push-tow unit; wide formation"
+  },
+  {
+    "Code": 17068,
+    "ID": 9,
+    "Meaning": "VIb 4-barge push-tow unit"
+  },
+  {
+    "Code": 17068,
+    "ID": 10,
+    "Meaning": "VIc 6-barge push-tow unit"
+  },
+  {
+    "Code": 17068,
+    "ID": 11,
+    "Meaning": "No CEMT class"
+  },
+  {
+    "Code": 17069,
+    "ID": 1,
+    "Meaning": "VTS centre"
+  },
+  {
+    "Code": 17069,
+    "ID": 2,
+    "Meaning": "VTS sector"
+  },
+  {
+    "Code": 17069,
+    "ID": 3,
+    "Meaning": "IVS point"
+  },
+  {
+    "Code": 17069,
+    "ID": 4,
+    "Meaning": "MID"
+  },
+  {
+    "Code": 17069,
+    "ID": 5,
+    "Meaning": "lock"
+  },
+  {
+    "Code": 17069,
+    "ID": 6,
+    "Meaning": "bridge"
+  },
+  {
+    "Code": 17069,
+    "ID": 7,
+    "Meaning": "custom"
+  },
+  {
+    "Code": 17069,
+    "ID": 8,
+    "Meaning": "harbour"
+  },
+  {
+    "Code": 17070,
+    "ID": 1,
+    "Meaning": "custom harbour"
+  },
+  {
+    "Code": 17070,
+    "ID": 2,
+    "Meaning": "port of refuge"
+  },
+  {
+    "Code": 17070,
+    "ID": 3,
+    "Meaning": "yacht harbour/marina"
+  },
+  {
+    "Code": 17070,
+    "ID": 4,
+    "Meaning": "fishing harbour"
+  },
+  {
+    "Code": 17070,
+    "ID": 5,
+    "Meaning": "private harbour"
+  },
+  {
+    "Code": 17071,
+    "ID": 1,
+    "Meaning": "cargo residue/slop"
+  },
+  {
+    "Code": 17071,
+    "ID": 2,
+    "Meaning": "waste oil"
+  },
+  {
+    "Code": 17071,
+    "ID": 3,
+    "Meaning": "grey/black water"
+  },
+  {
+    "Code": 17071,
+    "ID": 4,
+    "Meaning": "domestic refuse"
+  },
+  {
+    "Code": 17076,
+    "ID": 1,
+    "Meaning": "containers"
+  },
+  {
+    "Code": 17076,
+    "ID": 2,
+    "Meaning": "bulk goods"
+  },
+  {
+    "Code": 17076,
+    "ID": 3,
+    "Meaning": "oil"
+  },
+  {
+    "Code": 17076,
+    "ID": 4,
+    "Meaning": "fuel"
+  },
+  {
+    "Code": 17076,
+    "ID": 5,
+    "Meaning": "chemicals"
+  },
+  {
+    "Code": 17076,
+    "ID": 6,
+    "Meaning": "liquid goods"
+  },
+  {
+    "Code": 17076,
+    "ID": 7,
+    "Meaning": "explosive goods"
+  },
+  {
+    "Code": 17076,
+    "ID": 8,
+    "Meaning": "fish"
+  },
+  {
+    "Code": 17076,
+    "ID": 9,
+    "Meaning": "cars"
+  },
+  {
+    "Code": 17076,
+    "ID": 10,
+    "Meaning": "general cargo"
+  },
+  {
+    "Code": 17078,
+    "ID": 1,
+    "Meaning": "water level staff / pole"
+  },
+  {
+    "Code": 17078,
+    "ID": 2,
+    "Meaning": "recording water level gauge"
+  },
+  {
+    "Code": 17078,
+    "ID": 3,
+    "Meaning": "recording water level gauge with remote access"
+  },
+  {
+    "Code": 17078,
+    "ID": 4,
+    "Meaning": "recording water level gauge with external indicator"
+  },
+  {
+    "Code": 17078,
+    "ID": 5,
+    "Meaning": "recording water level gauge with remote access and remote indicator"
+  },
+  {
+    "Code": 17088,
+    "ID": 1,
+    "Meaning": "Baltic datum"
+  },
+  {
+    "Code": 17088,
+    "ID": 2,
+    "Meaning": "Adriatic level"
+  },
+  {
+    "Code": 17088,
+    "ID": 3,
+    "Meaning": "Amsterdam Ordnance Datum (NAP)"
+  },
+  {
+    "Code": 17088,
+    "ID": 4,
+    "Meaning": "Mean Sea Level"
+  },
+  {
+    "Code": 17088,
+    "ID": 5,
+    "Meaning": "Other datum"
+  },
+  {
+    "Code": 17088,
+    "ID": 6,
+    "Meaning": "National Geodetic Vertical Datum - NGVD29"
+  },
+  {
+    "Code": 17088,
+    "ID": 7,
+    "Meaning": "North American Vertical Datum - NAVD88"
+  },
+  {
+    "Code": 17088,
+    "ID": 8,
+    "Meaning": "Mean sea level 1912"
+  },
+  {
+    "Code": 17088,
+    "ID": 9,
+    "Meaning": "Mean sea level 1929"
+  },
+  {
+    "Code": 17091,
+    "ID": 1,
+    "Meaning": "official"
+  },
+  {
+    "Code": 17091,
+    "ID": 2,
+    "Meaning": "private"
+  },
+  {
+    "Code": 17091,
+    "ID": 3,
+    "Meaning": "suitable for car cranes"
+  },
+  {
+    "Code": 17091,
+    "ID": 4,
+    "Meaning": "suitable for car planks"
+  },
+  {
+    "Code": 17091,
+    "ID": 5,
+    "Meaning": "permission required"
+  },
+  {
+    "Code": 17091,
+    "ID": 6,
+    "Meaning": "locked gate"
+  },
+  {
+    "Code": 17092,
+    "ID": 1,
+    "Meaning": "operational period"
+  },
+  {
+    "Code": 17092,
+    "ID": 2,
+    "Meaning": "non-operational period"
+  },
+  {
+    "Code": 17094,
+    "ID": 1,
+    "Meaning": "liner trade"
+  },
+  {
+    "Code": 17094,
+    "ID": 2,
+    "Meaning": "occasional professional shipping"
+  },
+  {
+    "Code": 17094,
+    "ID": 3,
+    "Meaning": "leisure"
+  },
+  {
+    "Code": 17100,
+    "ID": 1,
+    "Meaning": "Lift-Lock"
+  },
+  {
+    "Code": 17100,
+    "ID": 2,
+    "Meaning": "Aqueduct"
+  },
+  {
+    "Code": 17100,
+    "ID": 3,
+    "Meaning": "Sloping plane lock"
+  },
+  {
+    "Code": 17100,
+    "ID": 4,
+    "Meaning": "Water slope lock (Pente d'Eau)"
+  },
+  {
+    "Code": 17100,
+    "ID": 5,
+    "Meaning": "Other"
+  },
+  {
+    "Code": 17101,
+    "ID": 1,
+    "Meaning": "power line"
+  },
+  {
+    "Code": 17101,
+    "ID": 3,
+    "Meaning": "transmission line"
+  },
+  {
+    "Code": 17101,
+    "ID": 4,
+    "Meaning": "telephone"
+  },
+  {
+    "Code": 17101,
+    "ID": 5,
+    "Meaning": "telegraph"
+  },
+  {
+    "Code": 17101,
+    "ID": 6,
+    "Meaning": "mooring cable/chain"
+  },
+  {
+    "Code": 17101,
+    "ID": 7,
+    "Meaning": "ferry cable"
+  },
+  {
+    "Code": 17102,
+    "ID": 1,
+    "Meaning": "floating restaurant"
+  },
+  {
+    "Code": 17102,
+    "ID": 2,
+    "Meaning": "historic ship"
+  },
+  {
+    "Code": 17102,
+    "ID": 3,
+    "Meaning": "museum"
+  },
+  {
+    "Code": 17102,
+    "ID": 4,
+    "Meaning": "accommodation"
+  },
+  {
+    "Code": 17102,
+    "ID": 5,
+    "Meaning": "floating breakwater"
+  },
+  {
+    "Code": 17102,
+    "ID": 6,
+    "Meaning": "casino boat"
+  },
+  {
+    "Code": 17103,
+    "ID": 1,
+    "Meaning": "metres"
+  },
+  {
+    "Code": 17103,
+    "ID": 2,
+    "Meaning": "feet"
+  },
+  {
+    "Code": 17103,
+    "ID": 3,
+    "Meaning": "kilometres"
+  },
+  {
+    "Code": 17103,
+    "ID": 4,
+    "Meaning": "hectometres"
+  },
+  {
+    "Code": 17103,
+    "ID": 5,
+    "Meaning": "statute miles"
+  },
+  {
+    "Code": 17103,
+    "ID": 6,
+    "Meaning": "nautical miles"
+  },
+  {
+    "Code": 17104,
+    "ID": 1,
+    "Meaning": "partly submerged at high water"
+  },
+  {
+    "Code": 17104,
+    "ID": 2,
+    "Meaning": "always dry"
+  },
+  {
+    "Code": 17104,
+    "ID": 3,
+    "Meaning": "always under water/submerged"
+  },
+  {
+    "Code": 17104,
+    "ID": 4,
+    "Meaning": "covers and uncovers"
+  },
+  {
+    "Code": 17104,
+    "ID": 8,
+    "Meaning": "above mean water level"
+  },
+  {
+    "Code": 17104,
+    "ID": 9,
+    "Meaning": "below mean water level"
+  },
+  {
+    "Code": 18002,
+    "ID": 1,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18002,
+    "ID": 2,
+    "Meaning": "speed over ground"
+  },
+  {
+    "Code": 18002,
+    "ID": 3,
+    "Meaning": "speed through water"
+  },
+  {
+    "Code": 18007,
+    "ID": 1,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18007,
+    "ID": 2,
+    "Meaning": "cubic meters"
+  },
+  {
+    "Code": 18007,
+    "ID": 3,
+    "Meaning": "tonnes"
+  },
+  {
+    "Code": 18008,
+    "ID": 1,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18008,
+    "ID": 2,
+    "Meaning": "usage of waterway"
+  },
+  {
+    "Code": 18008,
+    "ID": 3,
+    "Meaning": "carriage of equipment"
+  },
+  {
+    "Code": 18008,
+    "ID": 4,
+    "Meaning": "task,operation"
+  },
+  {
+    "Code": 18009,
+    "ID": 1,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18009,
+    "ID": 2,
+    "Meaning": "prohibited"
+  },
+  {
+    "Code": 18009,
+    "ID": 3,
+    "Meaning": "prohibited, with exceptions"
+  },
+  {
+    "Code": 18009,
+    "ID": 4,
+    "Meaning": "permitted"
+  },
+  {
+    "Code": 18009,
+    "ID": 5,
+    "Meaning": "permitted, with exceptions"
+  },
+  {
+    "Code": 18009,
+    "ID": 6,
+    "Meaning": "recommended"
+  },
+  {
+    "Code": 18009,
+    "ID": 7,
+    "Meaning": "not recommended"
+  },
+  {
+    "Code": 18012,
+    "ID": 1,
+    "Meaning": "all types"
+  },
+  {
+    "Code": 18012,
+    "ID": 2,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18012,
+    "ID": 3,
+    "Meaning": "non-motorized vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 5,
+    "Meaning": "craft"
+  },
+  {
+    "Code": 18012,
+    "ID": 6,
+    "Meaning": "vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 7,
+    "Meaning": "inland waterway vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 8,
+    "Meaning": "sea going ship"
+  },
+  {
+    "Code": 18012,
+    "ID": 9,
+    "Meaning": "motor vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 10,
+    "Meaning": "motor tanker"
+  },
+  {
+    "Code": 18012,
+    "ID": 11,
+    "Meaning": "motor cargo vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 12,
+    "Meaning": "canal barge"
+  },
+  {
+    "Code": 18012,
+    "ID": 13,
+    "Meaning": "tug"
+  },
+  {
+    "Code": 18012,
+    "ID": 14,
+    "Meaning": "pusher"
+  },
+  {
+    "Code": 18012,
+    "ID": 15,
+    "Meaning": "barge"
+  },
+  {
+    "Code": 18012,
+    "ID": 16,
+    "Meaning": "tank barge"
+  },
+  {
+    "Code": 18012,
+    "ID": 17,
+    "Meaning": "dumb barge"
+  },
+  {
+    "Code": 18012,
+    "ID": 18,
+    "Meaning": "lighter"
+  },
+  {
+    "Code": 18012,
+    "ID": 19,
+    "Meaning": "tank lighter"
+  },
+  {
+    "Code": 18012,
+    "ID": 20,
+    "Meaning": "cargo lighter"
+  },
+  {
+    "Code": 18012,
+    "ID": 21,
+    "Meaning": "ship borne lighter"
+  },
+  {
+    "Code": 18012,
+    "ID": 22,
+    "Meaning": "passenger vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 23,
+    "Meaning": "passenger sailing vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 24,
+    "Meaning": "day trip vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 25,
+    "Meaning": "cabin vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 26,
+    "Meaning": "High-speed vessel"
+  },
+  {
+    "Code": 18012,
+    "ID": 27,
+    "Meaning": "floating equipment"
+  },
+  {
+    "Code": 18012,
+    "ID": 28,
+    "Meaning": "worksite craft"
+  },
+  {
+    "Code": 18012,
+    "ID": 29,
+    "Meaning": "recreational craft"
+  },
+  {
+    "Code": 18012,
+    "ID": 30,
+    "Meaning": "Dinghy"
+  },
+  {
+    "Code": 18012,
+    "ID": 31,
+    "Meaning": "floating establishment"
+  },
+  {
+    "Code": 18012,
+    "ID": 32,
+    "Meaning": "floating  object"
+  },
+  {
+    "Code": 18013,
+    "ID": 1,
+    "Meaning": "all types"
+  },
+  {
+    "Code": 18013,
+    "ID": 2,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18013,
+    "ID": 3,
+    "Meaning": "non-motorized vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 5,
+    "Meaning": "craft"
+  },
+  {
+    "Code": 18013,
+    "ID": 6,
+    "Meaning": "vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 7,
+    "Meaning": "inland waterway vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 8,
+    "Meaning": "sea going ship"
+  },
+  {
+    "Code": 18013,
+    "ID": 9,
+    "Meaning": "motor vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 10,
+    "Meaning": "motor tanker"
+  },
+  {
+    "Code": 18013,
+    "ID": 11,
+    "Meaning": "motor cargo vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 12,
+    "Meaning": "canal barge"
+  },
+  {
+    "Code": 18013,
+    "ID": 13,
+    "Meaning": "tug"
+  },
+  {
+    "Code": 18013,
+    "ID": 14,
+    "Meaning": "pusher"
+  },
+  {
+    "Code": 18013,
+    "ID": 15,
+    "Meaning": "barge"
+  },
+  {
+    "Code": 18013,
+    "ID": 16,
+    "Meaning": "tank barge"
+  },
+  {
+    "Code": 18013,
+    "ID": 17,
+    "Meaning": "dumb barge"
+  },
+  {
+    "Code": 18013,
+    "ID": 18,
+    "Meaning": "lighter"
+  },
+  {
+    "Code": 18013,
+    "ID": 19,
+    "Meaning": "tank lighter"
+  },
+  {
+    "Code": 18013,
+    "ID": 20,
+    "Meaning": "cargo lighter"
+  },
+  {
+    "Code": 18013,
+    "ID": 21,
+    "Meaning": "ship borne lighter"
+  },
+  {
+    "Code": 18013,
+    "ID": 22,
+    "Meaning": "passenger vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 23,
+    "Meaning": "passenger sailing vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 24,
+    "Meaning": "day trip vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 25,
+    "Meaning": "cabin vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 26,
+    "Meaning": "High-speed vessel"
+  },
+  {
+    "Code": 18013,
+    "ID": 27,
+    "Meaning": "floating equipment"
+  },
+  {
+    "Code": 18013,
+    "ID": 28,
+    "Meaning": "worksite craft"
+  },
+  {
+    "Code": 18013,
+    "ID": 29,
+    "Meaning": "recreational craft"
+  },
+  {
+    "Code": 18013,
+    "ID": 30,
+    "Meaning": "Dinghy"
+  },
+  {
+    "Code": 18013,
+    "ID": 31,
+    "Meaning": "floating establishment"
+  },
+  {
+    "Code": 18013,
+    "ID": 32,
+    "Meaning": "floating  object"
+  },
+  {
+    "Code": 18014,
+    "ID": 1,
+    "Meaning": "all types"
+  },
+  {
+    "Code": 18014,
+    "ID": 2,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18014,
+    "ID": 3,
+    "Meaning": "single vessel"
+  },
+  {
+    "Code": 18014,
+    "ID": 5,
+    "Meaning": "convoy"
+  },
+  {
+    "Code": 18014,
+    "ID": 6,
+    "Meaning": "formation"
+  },
+  {
+    "Code": 18014,
+    "ID": 7,
+    "Meaning": "rigid convoy"
+  },
+  {
+    "Code": 18014,
+    "ID": 8,
+    "Meaning": "pushed convoy"
+  },
+  {
+    "Code": 18014,
+    "ID": 9,
+    "Meaning": "breasted up formation"
+  },
+  {
+    "Code": 18014,
+    "ID": 10,
+    "Meaning": "towed convoy"
+  },
+  {
+    "Code": 18015,
+    "ID": 1,
+    "Meaning": "all types"
+  },
+  {
+    "Code": 18015,
+    "ID": 2,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18015,
+    "ID": 3,
+    "Meaning": "single vessel"
+  },
+  {
+    "Code": 18015,
+    "ID": 5,
+    "Meaning": "convoy"
+  },
+  {
+    "Code": 18015,
+    "ID": 6,
+    "Meaning": "formation"
+  },
+  {
+    "Code": 18015,
+    "ID": 7,
+    "Meaning": "rigid convoy"
+  },
+  {
+    "Code": 18015,
+    "ID": 8,
+    "Meaning": "pushed convoy"
+  },
+  {
+    "Code": 18015,
+    "ID": 9,
+    "Meaning": "breasted up formation"
+  },
+  {
+    "Code": 18015,
+    "ID": 10,
+    "Meaning": "towed convoy"
+  },
+  {
+    "Code": 18016,
+    "ID": 1,
+    "Meaning": "all types"
+  },
+  {
+    "Code": 18016,
+    "ID": 2,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18016,
+    "ID": 4,
+    "Meaning": "bulk"
+  },
+  {
+    "Code": 18016,
+    "ID": 5,
+    "Meaning": "dry cargo"
+  },
+  {
+    "Code": 18016,
+    "ID": 6,
+    "Meaning": "liquid cargo"
+  },
+  {
+    "Code": 18016,
+    "ID": 7,
+    "Meaning": "liquid cargo (type N)"
+  },
+  {
+    "Code": 18016,
+    "ID": 8,
+    "Meaning": "liquid cargo (type C)"
+  },
+  {
+    "Code": 18016,
+    "ID": 9,
+    "Meaning": "gas"
+  },
+  {
+    "Code": 18017,
+    "ID": 1,
+    "Meaning": "all types"
+  },
+  {
+    "Code": 18017,
+    "ID": 2,
+    "Meaning": "other"
+  },
+  {
+    "Code": 18017,
+    "ID": 4,
+    "Meaning": "bulk"
+  },
+  {
+    "Code": 18017,
+    "ID": 5,
+    "Meaning": "dry cargo"
+  },
+  {
+    "Code": 18017,
+    "ID": 6,
+    "Meaning": "liquid cargo"
+  },
+  {
+    "Code": 18017,
+    "ID": 7,
+    "Meaning": "liquid cargo (type N)"
+  },
+  {
+    "Code": 18017,
+    "ID": 8,
+    "Meaning": "liquid cargo (type C)"
+  },
+  {
+    "Code": 18017,
+    "ID": 9,
+    "Meaning": "gas"
+  },
+  {
+    "Code": 33066,
+    "ID": 1,
+    "Meaning": "general cargo vessel"
+  },
+  {
+    "Code": 33066,
+    "ID": 2,
+    "Meaning": "container vessel"
+  },
+  {
+    "Code": 33066,
+    "ID": 3,
+    "Meaning": "tanker"
+  },
+  {
+    "Code": 33066,
+    "ID": 4,
+    "Meaning": "sailing vessel"
+  },
+  {
+    "Code": 33066,
+    "ID": 5,
+    "Meaning": "fishing vessel"
+  },
+  {
+    "Code": 33066,
+    "ID": 6,
+    "Meaning": "special purpose vessel."
+  },
+  {
+    "Code": 33066,
+    "ID": 7,
+    "Meaning": "man of War"
+  },
+  {
+    "Code": 33066,
+    "ID": 8,
+    "Meaning": "submarine"
+  },
+  {
+    "Code": 33066,
+    "ID": 9,
+    "Meaning": "high speed craft"
+  },
+  {
+    "Code": 33066,
+    "ID": 10,
+    "Meaning": "bulk carrier"
+  },
+  {
+    "Code": 33066,
+    "ID": 11,
+    "Meaning": "seaplane"
+  },
+  {
+    "Code": 33066,
+    "ID": 12,
+    "Meaning": "tugboat"
+  },
+  {
+    "Code": 33066,
+    "ID": 13,
+    "Meaning": "passenger vessel"
+  },
+  {
+    "Code": 33066,
+    "ID": 14,
+    "Meaning": "ferry"
+  },
+  {
+    "Code": 33066,
+    "ID": 15,
+    "Meaning": "boat"
+  }
+]

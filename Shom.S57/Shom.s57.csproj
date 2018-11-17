@@ -1,4 +1,4 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
@@ -13,7 +13,7 @@
     <EmbeddedResource Include="s57objectclasses.json" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Unused\" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Shom.ISO8211\Shom.Iso8211.csproj" />

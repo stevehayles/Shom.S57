@@ -1,6 +1,9 @@
+using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 
 namespace S57
@@ -14,13 +17,39 @@ namespace S57
             Code = code;
         }
 
+        [JsonProperty("ObjectClass")]
         public string Name { get; private set; }
+
+        [JsonProperty("Acronym")]
         public string Acronym { get; private set; }
+
+        [JsonProperty("Code")]
         public uint Code { get; private set; }
+
+        [JsonProperty("Class")]
+        public string Class { get; private set; }
+
+        [JsonProperty("Attribute_A")]
+        public string AttributeA { get; private set; }
+
+        [JsonProperty("Attribute_B")]
+        public string AttributeB { get; private set; }
+
+        [JsonProperty("Attribute_C")]
+        public string AttributeC { get; private set; }
+
+        [JsonProperty("Primitives")]
+        public string Primitives { get; private set; }
+
+        public override string ToString()
+        {
+            return $"{Name}: ({Acronym})";
+        }
     }
 
     public static class S57Objects
     {
+        /*
         public const uint M_COVR = 302;
         public const uint M_NSYS = 306;
         public const uint M_QUAL = 308;
@@ -47,9 +76,23 @@ namespace S57
         public const uint PYLONS = 98;
         public const uint RECTRC = 109;
         public const uint TOPMAR = 144;
+        */
 
+        private static Lazy<List<S57Object>> _objectClassInfoList = new Lazy<List<S57Object>>(() =>
+        {
+            var assembly = typeof(S57Objects).GetTypeInfo().Assembly;
 
-        private static List<S57Object>_objectClassInfoList = new List<S57Object>()
+            using (var stream = assembly.GetManifestResourceStream("Shom.s57.s57objectclasses.json"))
+            {
+                using (var reader = new StreamReader(stream))
+                {
+                    return JsonConvert.DeserializeObject<List<S57Object>>(reader.ReadToEnd());
+                }
+            }
+        });
+        
+            /*
+            = new List<S57Object>()
         {
             new S57Object( M_COVR, "M_COVR", "Coverage" ),
             new S57Object( M_NSYS, "M_NSYS", "Navigational system of marks" ),
@@ -83,61 +126,41 @@ namespace S57
             new S57Object( PYLONS, "PYLONS", "Pylon/bridge support" )
 
         };
+        */
 
         public static bool IsIn(uint code)
         {
-            foreach (var objectClassInfo in _objectClassInfoList)
-            {
-                if (code == objectClassInfo.Code)
-                {
-                    return true;
-                }
-            }
-            return false;
+            return _objectClassInfoList.Value.Any(obj => obj.Code == code);
         }
 
         public static S57Object Get(uint code)
         {
-            foreach (var objectClassInfo in _objectClassInfoList)
-            {
-                if (objectClassInfo.Code == code)
-                {
-                    return objectClassInfo;
-                }
-            }
-            return null;
+            return _objectClassInfoList.Value.Where(obj => obj.Code == code).SingleOrDefault();
         }
 
         public static S57Object Get(string acronym)
         {
-            foreach (var objectClassInfo in _objectClassInfoList)
-            {
-                if (objectClassInfo.Acronym == acronym )
-                {
-                    return objectClassInfo;
-                }
-            }
-            return null;
+            return _objectClassInfoList.Value.Where(obj => obj.Acronym.Equals(acronym)).SingleOrDefault();
         }
 
         public static bool IsGeoObjectClass(uint code)
         {
-            return (code >= 1 && code <= 159);
+            return _objectClassInfoList.Value.Any(obj => obj.Code == code && obj.Class.Equals("G"));
         }
 
         public static bool IsMetaObjectClass(uint code)
         {
-            return (code >= 300 && code <= 312);
+            return _objectClassInfoList.Value.Any(obj => obj.Code == code && obj.Class.Equals("M"));
         }
 
         public static bool IsCollectionObjectClass(uint code)
         {
-            return (code >= 400 && code <= 402);
+            return _objectClassInfoList.Value.Any(obj => obj.Code == code && obj.Class.Equals("C"));
         }
 
         public static bool IsCartographicObjectClass(uint code)
         {
-            return (code >= 500 && code <= 504);
+            return _objectClassInfoList.Value.Any(obj => obj.Code == code && obj.Class.Equals("$"));
         }
     }
 

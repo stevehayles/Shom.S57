@@ -1,0 +1,2165 @@
+﻿[
+  {
+    "Code": 1,
+    "Attribute": "Agency responsible for production",
+    "Acronym": "AGENCY",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 2,
+    "Attribute": "Beacon shape",
+    "Acronym": "BCNSHP",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 3,
+    "Attribute": "Building shape",
+    "Acronym": "BUISHP",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 4,
+    "Attribute": "Buoy shape",
+    "Acronym": "BOYSHP",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 5,
+    "Attribute": "Buried depth",
+    "Acronym": "BURDEP",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 6,
+    "Attribute": "Call sign",
+    "Acronym": "CALSGN",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 7,
+    "Attribute": "Category of airport/airfield",
+    "Acronym": "CATAIR",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 8,
+    "Attribute": "Category of anchorage",
+    "Acronym": "CATACH",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 9,
+    "Attribute": "Category of bridge",
+    "Acronym": "CATBRG",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 10,
+    "Attribute": "Category of built-up area",
+    "Acronym": "CATBUA",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 11,
+    "Attribute": "Category of cable",
+    "Acronym": "CATCBL",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 12,
+    "Attribute": "Category of canal",
+    "Acronym": "CATCAN",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 13,
+    "Attribute": "Category of cardinal mark",
+    "Acronym": "CATCAM",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 14,
+    "Attribute": "Category of checkpoint",
+    "Acronym": "CATCHP",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 15,
+    "Attribute": "Category of coastline",
+    "Acronym": "CATCOA",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 16,
+    "Attribute": "Category of control point",
+    "Acronym": "CATCTR",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17,
+    "Attribute": "Category of conveyor",
+    "Acronym": "CATCON",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 18,
+    "Attribute": "Category of coverage",
+    "Acronym": "CATCOV",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 19,
+    "Attribute": "Category of crane",
+    "Acronym": "CATCRN",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 20,
+    "Attribute": "Category of dam",
+    "Acronym": "CATDAM",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 21,
+    "Attribute": "Category of distance mark",
+    "Acronym": "CATDIS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 22,
+    "Attribute": "Category of dock",
+    "Acronym": "CATDOC",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 23,
+    "Attribute": "Category of dumping ground",
+    "Acronym": "CATDPG",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 24,
+    "Attribute": "Category of fence/wall",
+    "Acronym": "CATFNC",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 25,
+    "Attribute": "Category of ferry",
+    "Acronym": "CATFRY",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 26,
+    "Attribute": "Category of fishing facility",
+    "Acronym": "CATFIF",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 27,
+    "Attribute": "Category of fog signal",
+    "Acronym": "CATFOG",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 28,
+    "Attribute": "Category of fortified structure",
+    "Acronym": "CATFOR",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 29,
+    "Attribute": "Category of gate",
+    "Acronym": "CATGAT",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 30,
+    "Attribute": "Category of harbour facility",
+    "Acronym": "CATHAF",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 31,
+    "Attribute": "Category of hulk",
+    "Acronym": "CATHLK",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 32,
+    "Attribute": "Category of ice",
+    "Acronym": "CATICE",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 33,
+    "Attribute": "Category of installation buoy",
+    "Acronym": "CATINB",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 34,
+    "Attribute": "Category of land region",
+    "Acronym": "CATLND",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 35,
+    "Attribute": "Category of landmark",
+    "Acronym": "CATLMK",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 36,
+    "Attribute": "Category of lateral mark",
+    "Acronym": "CATLAM",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 37,
+    "Attribute": "Category of light",
+    "Acronym": "CATLIT",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 38,
+    "Attribute": "Category of marine farm/culture",
+    "Acronym": "CATMFA",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 39,
+    "Attribute": "Category of military practice area",
+    "Acronym": "CATMPA",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 40,
+    "Attribute": "Category of mooring/warping facility",
+    "Acronym": "CATMOR",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 41,
+    "Attribute": "Category of navigation line",
+    "Acronym": "CATNAV",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 42,
+    "Attribute": "Category of obstruction",
+    "Acronym": "CATOBS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 43,
+    "Attribute": "Category of offshore platform",
+    "Acronym": "CATOFP",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 44,
+    "Attribute": "Category of oil barrier",
+    "Acronym": "CATOLB",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 45,
+    "Attribute": "Category of pile",
+    "Acronym": "CATPLE",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 46,
+    "Attribute": "Category of pilot boarding place",
+    "Acronym": "CATPIL",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 47,
+    "Attribute": "Category of pipeline / pipe",
+    "Acronym": "CATPIP",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 48,
+    "Attribute": "Category of production area",
+    "Acronym": "CATPRA",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 49,
+    "Attribute": "Category of pylon",
+    "Acronym": "CATPYL",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 50,
+    "Attribute": "Category of quality of data",
+    "Acronym": "CATQUA",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 51,
+    "Attribute": "Category of radar station",
+    "Acronym": "CATRAS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 52,
+    "Attribute": "Category of radar transponder beacon",
+    "Acronym": "CATRTB",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 53,
+    "Attribute": "Category of radio station",
+    "Acronym": "CATROS",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 54,
+    "Attribute": "Category of recommended track",
+    "Acronym": "CATTRK",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 55,
+    "Attribute": "Category of rescue station",
+    "Acronym": "CATRSC",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 56,
+    "Attribute": "Category of restricted area",
+    "Acronym": "CATREA",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 57,
+    "Attribute": "Category of road",
+    "Acronym": "CATROD",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 58,
+    "Attribute": "Category of runway",
+    "Acronym": "CATRUN",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 59,
+    "Attribute": "Category of sea area",
+    "Acronym": "CATSEA",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 60,
+    "Attribute": "Category of shoreline construction",
+    "Acronym": "CATSLC",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 61,
+    "Attribute": "Category of signal station - traffic",
+    "Acronym": "CATSIT",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 62,
+    "Attribute": "Category of signal station - warning",
+    "Acronym": "CATSIW",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 63,
+    "Attribute": "Category of silo/tank",
+    "Acronym": "CATSIL",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 64,
+    "Attribute": "Category of slope",
+    "Acronym": "CATSLO",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 65,
+    "Attribute": "Category of small craft facility",
+    "Acronym": "CATSCF",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 66,
+    "Attribute": "Category of special purpose mark",
+    "Acronym": "CATSPM",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 67,
+    "Attribute": "Category of Traffic Separation Scheme",
+    "Acronym": "CATTSS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 68,
+    "Attribute": "Category of vegetation",
+    "Acronym": "CATVEG",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 69,
+    "Attribute": "Category of water turbulence",
+    "Acronym": "CATWAT",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 70,
+    "Attribute": "Category of weed/kelp",
+    "Acronym": "CATWED",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 71,
+    "Attribute": "Category of wreck",
+    "Acronym": "CATWRK",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 72,
+    "Attribute": "Category of zone of confidence data",
+    "Acronym": "CATZOC",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 73,
+    "Attribute": "Character spacing",
+    "Acronym": "$SPACE",
+    "Attributetype": "E",
+    "Class": "$"
+  },
+  {
+    "Code": 74,
+    "Attribute": "Character specification",
+    "Acronym": "$CHARS",
+    "Attributetype": "A",
+    "Class": "$"
+  },
+  {
+    "Code": 75,
+    "Attribute": "Colour",
+    "Acronym": "COLOUR",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 76,
+    "Attribute": "Colour pattern",
+    "Acronym": "COLPAT",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 77,
+    "Attribute": "Communication channel",
+    "Acronym": "COMCHA",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 78,
+    "Attribute": "Compass size",
+    "Acronym": "$CSIZE",
+    "Attributetype": "F",
+    "Class": "$"
+  },
+  {
+    "Code": 79,
+    "Attribute": "Compilation date",
+    "Acronym": "CPDATE",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 80,
+    "Attribute": "Compilation scale",
+    "Acronym": "CSCALE",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 81,
+    "Attribute": "Condition",
+    "Acronym": "CONDTN",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 82,
+    "Attribute": "Conspicuous - Radar",
+    "Acronym": "CONRAD",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 83,
+    "Attribute": "Conspicuous - Visual",
+    "Acronym": "CONVIS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 84,
+    "Attribute": "Current velocity",
+    "Acronym": "CURVEL",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 85,
+    "Attribute": "Date end",
+    "Acronym": "DATEND",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 86,
+    "Attribute": "Date start",
+    "Acronym": "DATSTA",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 87,
+    "Attribute": "Depth range value 1",
+    "Acronym": "DRVAL1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 88,
+    "Attribute": "Depth range value 2",
+    "Acronym": "DRVAL2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 89,
+    "Attribute": "Depth units",
+    "Acronym": "DUNITS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 90,
+    "Attribute": "Elevation",
+    "Acronym": "ELEVAT",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 91,
+    "Attribute": "Estimated range of transmission",
+    "Acronym": "ESTRNG",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 92,
+    "Attribute": "Exhibition condition of light",
+    "Acronym": "EXCLIT",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 93,
+    "Attribute": "Exposition of sounding",
+    "Acronym": "EXPSOU",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 94,
+    "Attribute": "Function",
+    "Acronym": "FUNCTN",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 95,
+    "Attribute": "Height",
+    "Acronym": "HEIGHT",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 96,
+    "Attribute": "Height/length units",
+    "Acronym": "HUNITS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 97,
+    "Attribute": "Horizontal accuracy",
+    "Acronym": "HORACC",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 98,
+    "Attribute": "Horizontal clearance",
+    "Acronym": "HORCLR",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 99,
+    "Attribute": "Horizontal length",
+    "Acronym": "HORLEN",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 100,
+    "Attribute": "Horizontal width",
+    "Acronym": "HORWID",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 101,
+    "Attribute": "Ice factor",
+    "Acronym": "ICEFAC",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 102,
+    "Attribute": "Information",
+    "Acronym": "INFORM",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 103,
+    "Attribute": "Jurisdiction",
+    "Acronym": "JRSDTN",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 104,
+    "Attribute": "Justification - horizontal",
+    "Acronym": "$JUSTH",
+    "Attributetype": "E",
+    "Class": "$"
+  },
+  {
+    "Code": 105,
+    "Attribute": "Justification - vertical",
+    "Acronym": "$JUSTV",
+    "Attributetype": "E",
+    "Class": "$"
+  },
+  {
+    "Code": 106,
+    "Attribute": "Lifting capacity",
+    "Acronym": "LIFCAP",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 107,
+    "Attribute": "Light characteristic",
+    "Acronym": "LITCHR",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 108,
+    "Attribute": "Light visibility",
+    "Acronym": "LITVIS",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 109,
+    "Attribute": "Marks navigational - System of",
+    "Acronym": "MARSYS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 110,
+    "Attribute": "Multiplicity of lights",
+    "Acronym": "MLTYLT",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 111,
+    "Attribute": "Nationality",
+    "Acronym": "NATION",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 112,
+    "Attribute": "Nature of construction",
+    "Acronym": "NATCON",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 113,
+    "Attribute": "Nature of surface",
+    "Acronym": "NATSUR",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 114,
+    "Attribute": "Nature of surface - qualifying terms",
+    "Acronym": "NATQUA",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 115,
+    "Attribute": "Notice to Mariners date",
+    "Acronym": "NMDATE",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 116,
+    "Attribute": "Object name",
+    "Acronym": "OBJNAM",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 117,
+    "Attribute": "Orientation",
+    "Acronym": "ORIENT",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 118,
+    "Attribute": "Periodic date end",
+    "Acronym": "PEREND",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 119,
+    "Attribute": "Periodic date start",
+    "Acronym": "PERSTA",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 120,
+    "Attribute": "Pictorial representation",
+    "Acronym": "PICREP",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 121,
+    "Attribute": "Pilot district",
+    "Acronym": "PILDST",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 122,
+    "Attribute": "Producing country",
+    "Acronym": "PRCTRY",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 123,
+    "Attribute": "Product",
+    "Acronym": "PRODCT",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 124,
+    "Attribute": "Publication reference",
+    "Acronym": "PUBREF",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 125,
+    "Attribute": "Quality of sounding measurement",
+    "Acronym": "QUASOU",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 126,
+    "Attribute": "Radar wave length",
+    "Acronym": "RADWAL",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 127,
+    "Attribute": "Radius",
+    "Acronym": "RADIUS",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 128,
+    "Attribute": "Recording date",
+    "Acronym": "RECDAT",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 129,
+    "Attribute": "Recording indication",
+    "Acronym": "RECIND",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 130,
+    "Attribute": "Reference year for magnetic variation",
+    "Acronym": "RYRMGV",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 131,
+    "Attribute": "Restriction",
+    "Acronym": "RESTRN",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 132,
+    "Attribute": "Scale maximum",
+    "Acronym": "SCAMAX",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 133,
+    "Attribute": "Scale minimum",
+    "Acronym": "SCAMIN",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 134,
+    "Attribute": "Scale value one",
+    "Acronym": "SCVAL1",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 135,
+    "Attribute": "Scale value two",
+    "Acronym": "SCVAL2",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 136,
+    "Attribute": "Sector limit one",
+    "Acronym": "SECTR1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 137,
+    "Attribute": "Sector limit two",
+    "Acronym": "SECTR2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 138,
+    "Attribute": "Shift parameters",
+    "Acronym": "SHIPAM",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 139,
+    "Attribute": "Signal frequency",
+    "Acronym": "SIGFRQ",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 140,
+    "Attribute": "Signal generation",
+    "Acronym": "SIGGEN",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 141,
+    "Attribute": "Signal group",
+    "Acronym": "SIGGRP",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 142,
+    "Attribute": "Signal period",
+    "Acronym": "SIGPER",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 143,
+    "Attribute": "Signal sequence",
+    "Acronym": "SIGSEQ",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 144,
+    "Attribute": "Sounding accuracy",
+    "Acronym": "SOUACC",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 145,
+    "Attribute": "Sounding distance - maximum",
+    "Acronym": "SDISMX",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 146,
+    "Attribute": "Sounding distance - minimum",
+    "Acronym": "SDISMN",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 147,
+    "Attribute": "Source date",
+    "Acronym": "SORDAT",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 148,
+    "Attribute": "Source indication",
+    "Acronym": "SORIND",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 149,
+    "Attribute": "Status",
+    "Acronym": "STATUS",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 150,
+    "Attribute": "Survey authority",
+    "Acronym": "SURATH",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 151,
+    "Attribute": "Survey date - end",
+    "Acronym": "SUREND",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 152,
+    "Attribute": "Survey date - start",
+    "Acronym": "SURSTA",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 153,
+    "Attribute": "Survey type",
+    "Acronym": "SURTYP",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 154,
+    "Attribute": "Symbol scaling factor",
+    "Acronym": "$SCALE",
+    "Attributetype": "F",
+    "Class": "$"
+  },
+  {
+    "Code": 155,
+    "Attribute": "Symbolization code",
+    "Acronym": "$SCODE",
+    "Attributetype": "A",
+    "Class": "$"
+  },
+  {
+    "Code": 156,
+    "Attribute": "Technique of sounding measurement",
+    "Acronym": "TECSOU",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 157,
+    "Attribute": "Text string",
+    "Acronym": "$TXSTR",
+    "Attributetype": "S",
+    "Class": "$"
+  },
+  {
+    "Code": 158,
+    "Attribute": "Textual description",
+    "Acronym": "TXTDSC",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 159,
+    "Attribute": "Tidal stream - panel values",
+    "Acronym": "TS_TSP",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 160,
+    "Attribute": "Tidal stream current - time series values",
+    "Acronym": "TS_TSV",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 161,
+    "Attribute": "Tide - accuracy of water level",
+    "Acronym": "T_ACWL",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 162,
+    "Attribute": "Tide - high and low water values",
+    "Acronym": "T_HWLW",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 163,
+    "Attribute": "Tide - method of tidal prediction",
+    "Acronym": "T_MTOD",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 164,
+    "Attribute": "Tide - time and height differences",
+    "Acronym": "T_THDF",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 165,
+    "Attribute": "Tide current - time interval of values",
+    "Acronym": "T_TINT",
+    "Attributetype": "I",
+    "Class": "F"
+  },
+  {
+    "Code": 166,
+    "Attribute": "Tide - time series values",
+    "Acronym": "T_TSVL",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 167,
+    "Attribute": "Tide - value of harmonic constituents",
+    "Acronym": "T_VAHC",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 168,
+    "Attribute": "Time end",
+    "Acronym": "TIMEND",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 169,
+    "Attribute": "Time start",
+    "Acronym": "TIMSTA",
+    "Attributetype": "A",
+    "Class": "F"
+  },
+  {
+    "Code": 170,
+    "Attribute": "Tint",
+    "Acronym": "$TINTS",
+    "Attributetype": "E",
+    "Class": "$"
+  },
+  {
+    "Code": 171,
+    "Attribute": "Topmark/daymark shape",
+    "Acronym": "TOPSHP",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 172,
+    "Attribute": "Traffic flow",
+    "Acronym": "TRAFIC",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 173,
+    "Attribute": "Value of annual change in magnetic variation",
+    "Acronym": "VALACM",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 174,
+    "Attribute": "Value of depth contour",
+    "Acronym": "VALDCO",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 175,
+    "Attribute": "Value of local magnetic anomaly",
+    "Acronym": "VALLMA",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 176,
+    "Attribute": "Value of magnetic variation",
+    "Acronym": "VALMAG",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 177,
+    "Attribute": "Value of maximum range",
+    "Acronym": "VALMXR",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 178,
+    "Attribute": "Value of nominal range",
+    "Acronym": "VALNMR",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 179,
+    "Attribute": "Value of sounding",
+    "Acronym": "VALSOU",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 180,
+    "Attribute": "Vertical accuracy",
+    "Acronym": "VERACC",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 181,
+    "Attribute": "Vertical clearance",
+    "Acronym": "VERCLR",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 182,
+    "Attribute": "Vertical clearance - closed",
+    "Acronym": "VERCCL",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 183,
+    "Attribute": "Vertical clearance - open",
+    "Acronym": "VERCOP",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 184,
+    "Attribute": "Vertical clearance - safe",
+    "Acronym": "VERCSA",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 185,
+    "Attribute": "Vertical datum",
+    "Acronym": "VERDAT",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 186,
+    "Attribute": "Vertical length",
+    "Acronym": "VERLEN",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 187,
+    "Attribute": "Water level effect",
+    "Acronym": "WATLEV",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 188,
+    "Attribute": "Category of Tidal stream",
+    "Acronym": "CAT_TS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 189,
+    "Attribute": "Positional accuracy units",
+    "Acronym": "PUNITS",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 190,
+    "Attribute": "Object class definition",
+    "Acronym": "CLSDEF",
+    "Attributetype": "S",
+    "Class": "$"
+  },
+  {
+    "Code": 191,
+    "Attribute": "Object class name",
+    "Acronym": "CLSNAM",
+    "Attributetype": "S",
+    "Class": "$"
+  },
+  {
+    "Code": 192,
+    "Attribute": "Symbol instruction",
+    "Acronym": "SYMINS",
+    "Attributetype": "S",
+    "Class": "$"
+  },
+  {
+    "Code": 300,
+    "Attribute": "Information in national language",
+    "Acronym": "NINFOM",
+    "Attributetype": "S",
+    "Class": "N"
+  },
+  {
+    "Code": 301,
+    "Attribute": "Object name in national language",
+    "Acronym": "NOBJNM",
+    "Attributetype": "S",
+    "Class": "N"
+  },
+  {
+    "Code": 302,
+    "Attribute": "Pilot district in national language",
+    "Acronym": "NPLDST",
+    "Attributetype": "S",
+    "Class": "N"
+  },
+  {
+    "Code": 303,
+    "Attribute": "Text string in national language",
+    "Acronym": "$NTXST",
+    "Attributetype": "S",
+    "Class": "N"
+  },
+  {
+    "Code": 304,
+    "Attribute": "Textual description in national language",
+    "Acronym": "NTXTDS",
+    "Attributetype": "S",
+    "Class": "N"
+  },
+  {
+    "Code": 400,
+    "Attribute": "Horizontal datum",
+    "Acronym": "HORDAT",
+    "Attributetype": "E",
+    "Class": "S"
+  },
+  {
+    "Code": 401,
+    "Attribute": "Positional Accuracy",
+    "Acronym": "POSACC",
+    "Attributetype": "F",
+    "Class": "S"
+  },
+  {
+    "Code": 402,
+    "Attribute": "Quality of position",
+    "Acronym": "QUAPOS",
+    "Attributetype": "E",
+    "Class": "S"
+  },
+  {
+    "Code": 17000,
+    "Attribute": "Category of anchorage",
+    "Acronym": "catach",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17001,
+    "Attribute": "Category of distance mark",
+    "Acronym": "catdis",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17002,
+    "Attribute": "Category of signal station. traffic",
+    "Acronym": "catsit",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17003,
+    "Attribute": "Category of signal station. warning",
+    "Acronym": "catsiw",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17004,
+    "Attribute": "Restriction",
+    "Acronym": "restrn",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17005,
+    "Attribute": "Vertical datum",
+    "Acronym": "verdat",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17006,
+    "Attribute": "Category of bridge",
+    "Acronym": "catbrg",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17007,
+    "Attribute": "Category of ferry",
+    "Acronym": "catfry",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17008,
+    "Attribute": "Category of harbour facility",
+    "Acronym": "cathaf",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17009,
+    "Attribute": "Marks navigational - System of",
+    "Acronym": "marsys",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17010,
+    "Attribute": "Category of checkpoint",
+    "Acronym": "catchp",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17011,
+    "Attribute": "Category of lateral mark",
+    "Acronym": "catlam",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17012,
+    "Attribute": "Category of shoreline construction",
+    "Acronym": "catslc",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17050,
+    "Attribute": "additional mark",
+    "Acronym": "addmrk",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17051,
+    "Attribute": "Category of bank",
+    "Acronym": "catbnk",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17052,
+    "Attribute": "category of notice mark",
+    "Acronym": "catnmk",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17055,
+    "Attribute": "class of dangerous cargo",
+    "Acronym": "clsdng",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17056,
+    "Attribute": "direction of impact",
+    "Acronym": "dirimp",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17057,
+    "Attribute": "Distance from notice mark. first",
+    "Acronym": "disbk1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17058,
+    "Attribute": "Distance from notice mark. second",
+    "Acronym": "disbk2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17059,
+    "Attribute": "Distance of impact. upstream",
+    "Acronym": "disipu",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17060,
+    "Attribute": "Distance of impact. downstream",
+    "Acronym": "disipd",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17061,
+    "Attribute": "Elevation 1 of surface (m)",
+    "Acronym": "eleva1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17062,
+    "Attribute": "Elevation 2 of surface (m)",
+    "Acronym": "eleva2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17063,
+    "Attribute": "Function of notice mark",
+    "Acronym": "fnctnm",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17064,
+    "Attribute": "waterway distance",
+    "Acronym": "wtwdis",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17065,
+    "Attribute": "bunker vessel. availability",
+    "Acronym": "bunves",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17066,
+    "Attribute": "category of berth",
+    "Acronym": "catbrt",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17067,
+    "Attribute": "category of bunker station",
+    "Acronym": "catbun",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17068,
+    "Attribute": "category of CEMT class",
+    "Acronym": "catccl",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17069,
+    "Attribute": "Category of communication",
+    "Acronym": "catcom",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17070,
+    "Attribute": "category of harbour area",
+    "Acronym": "cathbr",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17071,
+    "Attribute": "category of refuse dump",
+    "Acronym": "catrfd",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17072,
+    "Attribute": "Category of terminal",
+    "Acronym": "cattml",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17073,
+    "Attribute": "Communication",
+    "Acronym": "comctn",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17074,
+    "Attribute": "Horizontal clearance length",
+    "Acronym": "horcll",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17075,
+    "Attribute": "Horizontal clearance width",
+    "Acronym": "horclw",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17076,
+    "Attribute": "transshipping goods",
+    "Acronym": "trshgd",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17077,
+    "Attribute": "UN location code",
+    "Acronym": "unlocd",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17078,
+    "Attribute": "Category of waterway gauge",
+    "Acronym": "catgag",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17080,
+    "Attribute": "Value at relevant high water level",
+    "Acronym": "higwat",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17081,
+    "Attribute": "Name of relevant high water level",
+    "Acronym": "hignam",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17082,
+    "Attribute": "Value at relevant low water level",
+    "Acronym": "lowwat",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17083,
+    "Attribute": "Name of relevant low water level",
+    "Acronym": "lownam",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17084,
+    "Attribute": "Value at relevant mean water level",
+    "Acronym": "meawat",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17085,
+    "Attribute": "Name of relevant mean water level",
+    "Acronym": "meanam",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17086,
+    "Attribute": "Value at other locally relevant water level",
+    "Acronym": "othwat",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17087,
+    "Attribute": "Name of other locally relevant water level",
+    "Acronym": "othnam",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17088,
+    "Attribute": "Reference gravitational level",
+    "Acronym": "reflev",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17089,
+    "Attribute": "Name of Sounding datum reference level",
+    "Acronym": "sdrlev",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17090,
+    "Attribute": "Name of vertical river datum reference level",
+    "Acronym": "vcrlev",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17091,
+    "Attribute": "Category of vehicle transfer",
+    "Acronym": "catvtr",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17092,
+    "Attribute": "Category of time and behaviour",
+    "Acronym": "cattab",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17093,
+    "Attribute": "Time Schedule Reference",
+    "Acronym": "schref",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17094,
+    "Attribute": "Use of Ship",
+    "Acronym": "useshp",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17095,
+    "Attribute": "Current velocity at high water level",
+    "Acronym": "curvhw",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17096,
+    "Attribute": "Current velocity at low water level",
+    "Acronym": "curvlw",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17097,
+    "Attribute": "Current velocity at mean water level",
+    "Acronym": "curvmw",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17098,
+    "Attribute": "Current velocity at other water level",
+    "Acronym": "curvow",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 17099,
+    "Attribute": "Average Passing Time Reference",
+    "Acronym": "aptref",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 17100,
+    "Attribute": "Category of exceptional structure",
+    "Acronym": "catexs",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17101,
+    "Attribute": "Category of cable",
+    "Acronym": "catcbl",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17102,
+    "Attribute": "Category of hulk",
+    "Acronym": "cathlk",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 17103,
+    "Attribute": "Height/length units",
+    "Acronym": "hunits",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17104,
+    "Attribute": "Water level effect",
+    "Acronym": "watlev",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 17112,
+    "Attribute": "Category of waterway mark",
+    "Acronym": "catwwm",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 18001,
+    "Attribute": "Maximal permitted speed",
+    "Acronym": "lg_spd",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18002,
+    "Attribute": "speed reference",
+    "Acronym": "lg_spr",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18003,
+    "Attribute": "Maximal permitted beam",
+    "Acronym": "lg_bme",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18004,
+    "Attribute": "Maximal permitted length",
+    "Acronym": "lg_lgs",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18005,
+    "Attribute": "Maximal permitted draught",
+    "Acronym": "lg_drt",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18006,
+    "Attribute": "Maximal permitted water displacement",
+    "Acronym": "lg_wdp",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18007,
+    "Attribute": "water displacement unit",
+    "Acronym": "lg_wdu",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 18008,
+    "Attribute": "related issue",
+    "Acronym": "lg_rel",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18009,
+    "Attribute": "Function of legal conditions",
+    "Acronym": "lg_fnc",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18010,
+    "Attribute": "Description of legal conditions",
+    "Acronym": "lg_des",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 18011,
+    "Attribute": "Publication reference",
+    "Acronym": "lg_pbr",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 18012,
+    "Attribute": "category of ship (including)",
+    "Acronym": "lc_csi",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18013,
+    "Attribute": "category of ship (excluding)",
+    "Acronym": "lc_cse",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18014,
+    "Attribute": "Assemblies of ship (including)",
+    "Acronym": "lc_asi",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18015,
+    "Attribute": "Assemblies of ship (excluding)",
+    "Acronym": "lc_ase",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18016,
+    "Attribute": "Category of cargo (including)",
+    "Acronym": "lc_cci",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18017,
+    "Attribute": "Category of cargo (excluding)",
+    "Acronym": "lc_cce",
+    "Attributetype": "L",
+    "Class": "F"
+  },
+  {
+    "Code": 18018,
+    "Attribute": "Beam range value 1",
+    "Acronym": "lc_bm1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18019,
+    "Attribute": "Beam range value 2",
+    "Acronym": "lc_bm2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18020,
+    "Attribute": "Length range value 1",
+    "Acronym": "lc_lg1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18021,
+    "Attribute": "Length range value 2",
+    "Acronym": "lc_lg2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18022,
+    "Attribute": "Draught range value 1",
+    "Acronym": "lc_dr1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18023,
+    "Attribute": "Draught range value 2",
+    "Acronym": "lc_dr2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18024,
+    "Attribute": "Speed range value 1",
+    "Acronym": "lc_sp1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18025,
+    "Attribute": "Speed range value 2",
+    "Acronym": "lc_sp2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18026,
+    "Attribute": "Water displacement range value 1",
+    "Acronym": "lc_wd1",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 18027,
+    "Attribute": "Water displacement value 2",
+    "Acronym": "lc_wd2",
+    "Attributetype": "F",
+    "Class": "F"
+  },
+  {
+    "Code": 22031,
+    "Attribute": "Annotation Attribute 1",
+    "Acronym": "ANATR1",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22032,
+    "Attribute": "Annotation Attribute 2",
+    "Acronym": "ANATR2",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22033,
+    "Attribute": "Annotation Attribute 3",
+    "Acronym": "ANATR3",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22034,
+    "Attribute": "Annotation Attribute 4",
+    "Acronym": "ANATR4",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22035,
+    "Attribute": "Annotation Attribute 5",
+    "Acronym": "ANATR5",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22036,
+    "Attribute": "Annotation Attribute 6",
+    "Acronym": "ANATR6",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22037,
+    "Attribute": "Annotation Attribute 7",
+    "Acronym": "ANATR7",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22038,
+    "Attribute": "Annotation Attribute 8",
+    "Acronym": "ANATR8",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22039,
+    "Attribute": "Annotation Attribute 9",
+    "Acronym": "ANATR9",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22040,
+    "Attribute": "Annotation Attribute a",
+    "Acronym": "ANATRA",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22076,
+    "Attribute": "Annotation Text",
+    "Acronym": "ANTXT1",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22135,
+    "Attribute": "Annotation Layer",
+    "Acronym": "ANLYR1",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 22227,
+    "Attribute": "New type 1",
+    "Acronym": "NEWTY1",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 33066,
+    "Attribute": "Type of Ship",
+    "Acronym": "shptyp",
+    "Attributetype": "E",
+    "Class": "F"
+  },
+  {
+    "Code": 40000,
+    "Attribute": "Update message",
+    "Acronym": "updmsg",
+    "Attributetype": "S",
+    "Class": "F"
+  },
+  {
+    "Code": 50000,
+    "Attribute": "Geometry Primitive Category",
+    "Acronym": "catgeo",
+    "Attributetype": "E",
+    "Class": "F"
+  }
+]
